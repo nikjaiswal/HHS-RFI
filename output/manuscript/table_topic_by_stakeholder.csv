@@ -1,0 +1,151 @@
+topic,variable,commenter_type,commenter_label,n_yes,n_total,prevalence,ci95_lo,ci95_hi,chi2_overall,p_overall,test,cramers_v,q_value_bh,significant_bh_05
+Regulatory framework,top_regulation,ADV,Patient / consumer advocate,68,77,0.883,0.793,0.937,37.896,0.0,Pearson χ²,0.291,0.0,True
+Regulatory framework,top_regulation,AIC,AI company,18,22,0.818,0.615,0.927,37.896,0.0,Pearson χ²,0.291,0.0,True
+Regulatory framework,top_regulation,HIT,Health IT,108,124,0.871,0.801,0.919,37.896,0.0,Pearson χ²,0.291,0.0,True
+Regulatory framework,top_regulation,HSP,Health system / provider,42,47,0.894,0.774,0.954,37.896,0.0,Pearson χ²,0.291,0.0,True
+Regulatory framework,top_regulation,IND,Individual,52,88,0.591,0.486,0.688,37.896,0.0,Pearson χ²,0.291,0.0,True
+Regulatory framework,top_regulation,LAB,Labor organization,4,5,0.8,0.376,0.964,37.896,0.0,Pearson χ²,0.291,0.0,True
+Regulatory framework,top_regulation,MPS,Medical professional society,41,54,0.759,0.631,0.854,37.896,0.0,Pearson χ²,0.291,0.0,True
+Regulatory framework,top_regulation,PAY,Payer / insurer,10,10,1.0,0.722,1.0,37.896,0.0,Pearson χ²,0.291,0.0,True
+Regulatory framework,top_regulation,POL,Policy / academic / consulting,9,11,0.818,0.523,0.949,37.896,0.0,Pearson χ²,0.291,0.0,True
+Regulatory framework,top_regulation,TEC,Tech / pharma / device,7,8,0.875,0.529,0.978,37.896,0.0,Pearson χ²,0.291,0.0,True
+Evaluation & monitoring,top_evaluation,ADV,Patient / consumer advocate,62,77,0.805,0.703,0.878,32.456,0.0002,Pearson χ²,0.27,0.0003,True
+Evaluation & monitoring,top_evaluation,AIC,AI company,17,22,0.773,0.566,0.899,32.456,0.0002,Pearson χ²,0.27,0.0003,True
+Evaluation & monitoring,top_evaluation,HIT,Health IT,101,124,0.815,0.737,0.873,32.456,0.0002,Pearson χ²,0.27,0.0003,True
+Evaluation & monitoring,top_evaluation,HSP,Health system / provider,45,47,0.957,0.858,0.988,32.456,0.0002,Pearson χ²,0.27,0.0003,True
+Evaluation & monitoring,top_evaluation,IND,Individual,51,88,0.58,0.475,0.677,32.456,0.0002,Pearson χ²,0.27,0.0003,True
+Evaluation & monitoring,top_evaluation,LAB,Labor organization,4,5,0.8,0.376,0.964,32.456,0.0002,Pearson χ²,0.27,0.0003,True
+Evaluation & monitoring,top_evaluation,MPS,Medical professional society,43,54,0.796,0.671,0.882,32.456,0.0002,Pearson χ²,0.27,0.0003,True
+Evaluation & monitoring,top_evaluation,PAY,Payer / insurer,9,10,0.9,0.596,0.982,32.456,0.0002,Pearson χ²,0.27,0.0003,True
+Evaluation & monitoring,top_evaluation,POL,Policy / academic / consulting,10,11,0.909,0.623,0.984,32.456,0.0002,Pearson χ²,0.27,0.0003,True
+Evaluation & monitoring,top_evaluation,TEC,Tech / pharma / device,6,8,0.75,0.409,0.929,32.456,0.0002,Pearson χ²,0.27,0.0003,True
+Reimbursement & payment,top_reimbursement,ADV,Patient / consumer advocate,49,77,0.636,0.525,0.735,90.211,0.0,Pearson χ²,0.45,0.0,True
+Reimbursement & payment,top_reimbursement,AIC,AI company,17,22,0.773,0.566,0.899,90.211,0.0,Pearson χ²,0.45,0.0,True
+Reimbursement & payment,top_reimbursement,HIT,Health IT,102,124,0.823,0.746,0.88,90.211,0.0,Pearson χ²,0.45,0.0,True
+Reimbursement & payment,top_reimbursement,HSP,Health system / provider,41,47,0.872,0.748,0.94,90.211,0.0,Pearson χ²,0.45,0.0,True
+Reimbursement & payment,top_reimbursement,IND,Individual,22,88,0.25,0.171,0.35,90.211,0.0,Pearson χ²,0.45,0.0,True
+Reimbursement & payment,top_reimbursement,LAB,Labor organization,4,5,0.8,0.376,0.964,90.211,0.0,Pearson χ²,0.45,0.0,True
+Reimbursement & payment,top_reimbursement,MPS,Medical professional society,33,54,0.611,0.478,0.73,90.211,0.0,Pearson χ²,0.45,0.0,True
+Reimbursement & payment,top_reimbursement,PAY,Payer / insurer,7,10,0.7,0.397,0.892,90.211,0.0,Pearson χ²,0.45,0.0,True
+Reimbursement & payment,top_reimbursement,POL,Policy / academic / consulting,6,11,0.545,0.28,0.787,90.211,0.0,Pearson χ²,0.45,0.0,True
+Reimbursement & payment,top_reimbursement,TEC,Tech / pharma / device,5,8,0.625,0.306,0.863,90.211,0.0,Pearson χ²,0.45,0.0,True
+Transparency & explainability,top_transparency,ADV,Patient / consumer advocate,54,77,0.701,0.592,0.792,57.971,0.0,Pearson χ²,0.361,0.0,True
+Transparency & explainability,top_transparency,AIC,AI company,16,22,0.727,0.518,0.868,57.971,0.0,Pearson χ²,0.361,0.0,True
+Transparency & explainability,top_transparency,HIT,Health IT,94,124,0.758,0.676,0.825,57.971,0.0,Pearson χ²,0.361,0.0,True
+Transparency & explainability,top_transparency,HSP,Health system / provider,41,47,0.872,0.748,0.94,57.971,0.0,Pearson χ²,0.361,0.0,True
+Transparency & explainability,top_transparency,IND,Individual,31,88,0.352,0.261,0.456,57.971,0.0,Pearson χ²,0.361,0.0,True
+Transparency & explainability,top_transparency,LAB,Labor organization,4,5,0.8,0.376,0.964,57.971,0.0,Pearson χ²,0.361,0.0,True
+Transparency & explainability,top_transparency,MPS,Medical professional society,39,54,0.722,0.591,0.824,57.971,0.0,Pearson χ²,0.361,0.0,True
+Transparency & explainability,top_transparency,PAY,Payer / insurer,9,10,0.9,0.596,0.982,57.971,0.0,Pearson χ²,0.361,0.0,True
+Transparency & explainability,top_transparency,POL,Policy / academic / consulting,8,11,0.727,0.434,0.903,57.971,0.0,Pearson χ²,0.361,0.0,True
+Transparency & explainability,top_transparency,TEC,Tech / pharma / device,5,8,0.625,0.306,0.863,57.971,0.0,Pearson χ²,0.361,0.0,True
+Clinical workflow integration,top_workflow,ADV,Patient / consumer advocate,56,77,0.727,0.619,0.814,85.613,0.0,Pearson χ²,0.438,0.0,True
+Clinical workflow integration,top_workflow,AIC,AI company,18,22,0.818,0.615,0.927,85.613,0.0,Pearson χ²,0.438,0.0,True
+Clinical workflow integration,top_workflow,HIT,Health IT,113,124,0.911,0.848,0.95,85.613,0.0,Pearson χ²,0.438,0.0,True
+Clinical workflow integration,top_workflow,HSP,Health system / provider,44,47,0.936,0.828,0.978,85.613,0.0,Pearson χ²,0.438,0.0,True
+Clinical workflow integration,top_workflow,IND,Individual,37,88,0.42,0.323,0.525,85.613,0.0,Pearson χ²,0.438,0.0,True
+Clinical workflow integration,top_workflow,LAB,Labor organization,3,5,0.6,0.231,0.882,85.613,0.0,Pearson χ²,0.438,0.0,True
+Clinical workflow integration,top_workflow,MPS,Medical professional society,43,54,0.796,0.671,0.882,85.613,0.0,Pearson χ²,0.438,0.0,True
+Clinical workflow integration,top_workflow,PAY,Payer / insurer,10,10,1.0,0.722,1.0,85.613,0.0,Pearson χ²,0.438,0.0,True
+Clinical workflow integration,top_workflow,POL,Policy / academic / consulting,8,11,0.727,0.434,0.903,85.613,0.0,Pearson χ²,0.438,0.0,True
+Clinical workflow integration,top_workflow,TEC,Tech / pharma / device,4,8,0.5,0.215,0.785,85.613,0.0,Pearson χ²,0.438,0.0,True
+Trust,top_trust,ADV,Patient / consumer advocate,71,77,0.922,0.84,0.964,28.122,0.0009,Pearson χ²,0.251,0.001,True
+Trust,top_trust,AIC,AI company,19,22,0.864,0.667,0.953,28.122,0.0009,Pearson χ²,0.251,0.001,True
+Trust,top_trust,HIT,Health IT,101,124,0.815,0.737,0.873,28.122,0.0009,Pearson χ²,0.251,0.001,True
+Trust,top_trust,HSP,Health system / provider,44,47,0.936,0.828,0.978,28.122,0.0009,Pearson χ²,0.251,0.001,True
+Trust,top_trust,IND,Individual,63,88,0.716,0.614,0.8,28.122,0.0009,Pearson χ²,0.251,0.001,True
+Trust,top_trust,LAB,Labor organization,5,5,1.0,0.566,1.0,28.122,0.0009,Pearson χ²,0.251,0.001,True
+Trust,top_trust,MPS,Medical professional society,52,54,0.963,0.875,0.99,28.122,0.0009,Pearson χ²,0.251,0.001,True
+Trust,top_trust,PAY,Payer / insurer,9,10,0.9,0.596,0.982,28.122,0.0009,Pearson χ²,0.251,0.001,True
+Trust,top_trust,POL,Policy / academic / consulting,9,11,0.818,0.523,0.949,28.122,0.0009,Pearson χ²,0.251,0.001,True
+Trust,top_trust,TEC,Tech / pharma / device,8,8,1.0,0.676,1.0,28.122,0.0009,Pearson χ²,0.251,0.001,True
+Patient safety,top_safety,ADV,Patient / consumer advocate,67,77,0.87,0.777,0.928,37.26,0.0,Pearson χ²,0.289,0.0,True
+Patient safety,top_safety,AIC,AI company,19,22,0.864,0.667,0.953,37.26,0.0,Pearson χ²,0.289,0.0,True
+Patient safety,top_safety,HIT,Health IT,88,124,0.71,0.624,0.782,37.26,0.0,Pearson χ²,0.289,0.0,True
+Patient safety,top_safety,HSP,Health system / provider,42,47,0.894,0.774,0.954,37.26,0.0,Pearson χ²,0.289,0.0,True
+Patient safety,top_safety,IND,Individual,56,88,0.636,0.532,0.729,37.26,0.0,Pearson χ²,0.289,0.0,True
+Patient safety,top_safety,LAB,Labor organization,2,5,0.4,0.118,0.769,37.26,0.0,Pearson χ²,0.289,0.0,True
+Patient safety,top_safety,MPS,Medical professional society,51,54,0.944,0.849,0.981,37.26,0.0,Pearson χ²,0.289,0.0,True
+Patient safety,top_safety,PAY,Payer / insurer,7,10,0.7,0.397,0.892,37.26,0.0,Pearson χ²,0.289,0.0,True
+Patient safety,top_safety,POL,Policy / academic / consulting,10,11,0.909,0.623,0.984,37.26,0.0,Pearson χ²,0.289,0.0,True
+Patient safety,top_safety,TEC,Tech / pharma / device,5,8,0.625,0.306,0.863,37.26,0.0,Pearson χ²,0.289,0.0,True
+FDA scope & device classification,top_fda_scope,ADV,Patient / consumer advocate,32,77,0.416,0.312,0.527,29.666,0.0005,Pearson χ²,0.258,0.0006,True
+FDA scope & device classification,top_fda_scope,AIC,AI company,16,22,0.727,0.518,0.868,29.666,0.0005,Pearson χ²,0.258,0.0006,True
+FDA scope & device classification,top_fda_scope,HIT,Health IT,67,124,0.54,0.453,0.626,29.666,0.0005,Pearson χ²,0.258,0.0006,True
+FDA scope & device classification,top_fda_scope,HSP,Health system / provider,26,47,0.553,0.412,0.686,29.666,0.0005,Pearson χ²,0.258,0.0006,True
+FDA scope & device classification,top_fda_scope,IND,Individual,23,88,0.261,0.181,0.362,29.666,0.0005,Pearson χ²,0.258,0.0006,True
+FDA scope & device classification,top_fda_scope,LAB,Labor organization,4,5,0.8,0.376,0.964,29.666,0.0005,Pearson χ²,0.258,0.0006,True
+FDA scope & device classification,top_fda_scope,MPS,Medical professional society,24,54,0.444,0.32,0.576,29.666,0.0005,Pearson χ²,0.258,0.0006,True
+FDA scope & device classification,top_fda_scope,PAY,Payer / insurer,4,10,0.4,0.168,0.687,29.666,0.0005,Pearson χ²,0.258,0.0006,True
+FDA scope & device classification,top_fda_scope,POL,Policy / academic / consulting,7,11,0.636,0.354,0.848,29.666,0.0005,Pearson χ²,0.258,0.0006,True
+FDA scope & device classification,top_fda_scope,TEC,Tech / pharma / device,4,8,0.5,0.215,0.785,29.666,0.0005,Pearson χ²,0.258,0.0006,True
+Interoperability & data standards,top_interoperability,ADV,Patient / consumer advocate,41,77,0.532,0.422,0.64,45.592,0.0,Pearson χ²,0.32,0.0,True
+Interoperability & data standards,top_interoperability,AIC,AI company,15,22,0.682,0.473,0.836,45.592,0.0,Pearson χ²,0.32,0.0,True
+Interoperability & data standards,top_interoperability,HIT,Health IT,103,124,0.831,0.755,0.886,45.592,0.0,Pearson χ²,0.32,0.0,True
+Interoperability & data standards,top_interoperability,HSP,Health system / provider,34,47,0.723,0.582,0.831,45.592,0.0,Pearson χ²,0.32,0.0,True
+Interoperability & data standards,top_interoperability,IND,Individual,38,88,0.432,0.333,0.536,45.592,0.0,Pearson χ²,0.32,0.0,True
+Interoperability & data standards,top_interoperability,LAB,Labor organization,3,5,0.6,0.231,0.882,45.592,0.0,Pearson χ²,0.32,0.0,True
+Interoperability & data standards,top_interoperability,MPS,Medical professional society,35,54,0.648,0.515,0.762,45.592,0.0,Pearson χ²,0.32,0.0,True
+Interoperability & data standards,top_interoperability,PAY,Payer / insurer,7,10,0.7,0.397,0.892,45.592,0.0,Pearson χ²,0.32,0.0,True
+Interoperability & data standards,top_interoperability,POL,Policy / academic / consulting,5,11,0.455,0.213,0.72,45.592,0.0,Pearson χ²,0.32,0.0,True
+Interoperability & data standards,top_interoperability,TEC,Tech / pharma / device,7,8,0.875,0.529,0.978,45.592,0.0,Pearson χ²,0.32,0.0,True
+Equity & bias,top_equity,ADV,Patient / consumer advocate,50,77,0.649,0.538,0.747,59.685,0.0,Pearson χ²,0.366,0.0,True
+Equity & bias,top_equity,AIC,AI company,19,22,0.864,0.667,0.953,59.685,0.0,Pearson χ²,0.366,0.0,True
+Equity & bias,top_equity,HIT,Health IT,60,124,0.484,0.398,0.571,59.685,0.0,Pearson χ²,0.366,0.0,True
+Equity & bias,top_equity,HSP,Health system / provider,38,47,0.809,0.675,0.896,59.685,0.0,Pearson χ²,0.366,0.0,True
+Equity & bias,top_equity,IND,Individual,25,88,0.284,0.2,0.386,59.685,0.0,Pearson χ²,0.366,0.0,True
+Equity & bias,top_equity,LAB,Labor organization,4,5,0.8,0.376,0.964,59.685,0.0,Pearson χ²,0.366,0.0,True
+Equity & bias,top_equity,MPS,Medical professional society,32,54,0.593,0.46,0.713,59.685,0.0,Pearson χ²,0.366,0.0,True
+Equity & bias,top_equity,PAY,Payer / insurer,6,10,0.6,0.313,0.832,59.685,0.0,Pearson χ²,0.366,0.0,True
+Equity & bias,top_equity,POL,Policy / academic / consulting,9,11,0.818,0.523,0.949,59.685,0.0,Pearson χ²,0.366,0.0,True
+Equity & bias,top_equity,TEC,Tech / pharma / device,2,8,0.25,0.071,0.591,59.685,0.0,Pearson χ²,0.366,0.0,True
+Liability & accountability,top_liability,ADV,Patient / consumer advocate,50,77,0.649,0.538,0.747,65.69,0.0,Pearson χ²,0.384,0.0,True
+Liability & accountability,top_liability,AIC,AI company,13,22,0.591,0.387,0.767,65.69,0.0,Pearson χ²,0.384,0.0,True
+Liability & accountability,top_liability,HIT,Health IT,86,124,0.694,0.608,0.768,65.69,0.0,Pearson χ²,0.384,0.0,True
+Liability & accountability,top_liability,HSP,Health system / provider,37,47,0.787,0.651,0.88,65.69,0.0,Pearson χ²,0.384,0.0,True
+Liability & accountability,top_liability,IND,Individual,19,88,0.216,0.143,0.313,65.69,0.0,Pearson χ²,0.384,0.0,True
+Liability & accountability,top_liability,LAB,Labor organization,2,5,0.4,0.118,0.769,65.69,0.0,Pearson χ²,0.384,0.0,True
+Liability & accountability,top_liability,MPS,Medical professional society,34,54,0.63,0.496,0.746,65.69,0.0,Pearson χ²,0.384,0.0,True
+Liability & accountability,top_liability,PAY,Payer / insurer,5,10,0.5,0.237,0.763,65.69,0.0,Pearson χ²,0.384,0.0,True
+Liability & accountability,top_liability,POL,Policy / academic / consulting,6,11,0.545,0.28,0.787,65.69,0.0,Pearson χ²,0.384,0.0,True
+Liability & accountability,top_liability,TEC,Tech / pharma / device,4,8,0.5,0.215,0.785,65.69,0.0,Pearson χ²,0.384,0.0,True
+Administrative burden reduction,top_admin_burden,ADV,Patient / consumer advocate,53,77,0.688,0.578,0.781,71.139,0.0,Pearson χ²,0.399,0.0,True
+Administrative burden reduction,top_admin_burden,AIC,AI company,14,22,0.636,0.43,0.803,71.139,0.0,Pearson χ²,0.399,0.0,True
+Administrative burden reduction,top_admin_burden,HIT,Health IT,89,124,0.718,0.633,0.789,71.139,0.0,Pearson χ²,0.399,0.0,True
+Administrative burden reduction,top_admin_burden,HSP,Health system / provider,42,47,0.894,0.774,0.954,71.139,0.0,Pearson χ²,0.399,0.0,True
+Administrative burden reduction,top_admin_burden,IND,Individual,24,88,0.273,0.191,0.374,71.139,0.0,Pearson χ²,0.399,0.0,True
+Administrative burden reduction,top_admin_burden,LAB,Labor organization,3,5,0.6,0.231,0.882,71.139,0.0,Pearson χ²,0.399,0.0,True
+Administrative burden reduction,top_admin_burden,MPS,Medical professional society,31,54,0.574,0.442,0.697,71.139,0.0,Pearson χ²,0.399,0.0,True
+Administrative burden reduction,top_admin_burden,PAY,Payer / insurer,9,10,0.9,0.596,0.982,71.139,0.0,Pearson χ²,0.399,0.0,True
+Administrative burden reduction,top_admin_burden,POL,Policy / academic / consulting,8,11,0.727,0.434,0.903,71.139,0.0,Pearson χ²,0.399,0.0,True
+Administrative burden reduction,top_admin_burden,TEC,Tech / pharma / device,5,8,0.625,0.306,0.863,71.139,0.0,Pearson χ²,0.399,0.0,True
+Standards & accreditation,top_standards,ADV,Patient / consumer advocate,55,77,0.714,0.605,0.803,41.094,0.0,Pearson χ²,0.304,0.0,True
+Standards & accreditation,top_standards,AIC,AI company,18,22,0.818,0.615,0.927,41.094,0.0,Pearson χ²,0.304,0.0,True
+Standards & accreditation,top_standards,HIT,Health IT,116,124,0.935,0.878,0.967,41.094,0.0,Pearson χ²,0.304,0.0,True
+Standards & accreditation,top_standards,HSP,Health system / provider,41,47,0.872,0.748,0.94,41.094,0.0,Pearson χ²,0.304,0.0,True
+Standards & accreditation,top_standards,IND,Individual,53,88,0.602,0.498,0.698,41.094,0.0,Pearson χ²,0.304,0.0,True
+Standards & accreditation,top_standards,LAB,Labor organization,5,5,1.0,0.566,1.0,41.094,0.0,Pearson χ²,0.304,0.0,True
+Standards & accreditation,top_standards,MPS,Medical professional society,43,54,0.796,0.671,0.882,41.094,0.0,Pearson χ²,0.304,0.0,True
+Standards & accreditation,top_standards,PAY,Payer / insurer,8,10,0.8,0.49,0.943,41.094,0.0,Pearson χ²,0.304,0.0,True
+Standards & accreditation,top_standards,POL,Policy / academic / consulting,8,11,0.727,0.434,0.903,41.094,0.0,Pearson χ²,0.304,0.0,True
+Standards & accreditation,top_standards,TEC,Tech / pharma / device,6,8,0.75,0.409,0.929,41.094,0.0,Pearson χ²,0.304,0.0,True
+Workforce impact,top_workforce,ADV,Patient / consumer advocate,43,77,0.558,0.447,0.664,18.78,0.0271,Pearson χ²,0.205,0.0271,True
+Workforce impact,top_workforce,AIC,AI company,11,22,0.5,0.307,0.693,18.78,0.0271,Pearson χ²,0.205,0.0271,True
+Workforce impact,top_workforce,HIT,Health IT,62,124,0.5,0.413,0.587,18.78,0.0271,Pearson χ²,0.205,0.0271,True
+Workforce impact,top_workforce,HSP,Health system / provider,33,47,0.702,0.56,0.813,18.78,0.0271,Pearson χ²,0.205,0.0271,True
+Workforce impact,top_workforce,IND,Individual,31,88,0.352,0.261,0.456,18.78,0.0271,Pearson χ²,0.205,0.0271,True
+Workforce impact,top_workforce,LAB,Labor organization,2,5,0.4,0.118,0.769,18.78,0.0271,Pearson χ²,0.205,0.0271,True
+Workforce impact,top_workforce,MPS,Medical professional society,28,54,0.519,0.389,0.646,18.78,0.0271,Pearson χ²,0.205,0.0271,True
+Workforce impact,top_workforce,PAY,Payer / insurer,5,10,0.5,0.237,0.763,18.78,0.0271,Pearson χ²,0.205,0.0271,True
+Workforce impact,top_workforce,POL,Policy / academic / consulting,6,11,0.545,0.28,0.787,18.78,0.0271,Pearson χ²,0.205,0.0271,True
+Workforce impact,top_workforce,TEC,Tech / pharma / device,2,8,0.25,0.071,0.591,18.78,0.0271,Pearson χ²,0.205,0.0271,True
+Privacy & HIPAA,top_privacy,ADV,Patient / consumer advocate,66,77,0.857,0.762,0.918,57.721,0.0,Pearson χ²,0.36,0.0,True
+Privacy & HIPAA,top_privacy,AIC,AI company,17,22,0.773,0.566,0.899,57.721,0.0,Pearson χ²,0.36,0.0,True
+Privacy & HIPAA,top_privacy,HIT,Health IT,91,124,0.734,0.65,0.804,57.721,0.0,Pearson χ²,0.36,0.0,True
+Privacy & HIPAA,top_privacy,HSP,Health system / provider,40,47,0.851,0.723,0.926,57.721,0.0,Pearson χ²,0.36,0.0,True
+Privacy & HIPAA,top_privacy,IND,Individual,37,88,0.42,0.323,0.525,57.721,0.0,Pearson χ²,0.36,0.0,True
+Privacy & HIPAA,top_privacy,LAB,Labor organization,2,5,0.4,0.118,0.769,57.721,0.0,Pearson χ²,0.36,0.0,True
+Privacy & HIPAA,top_privacy,MPS,Medical professional society,41,54,0.759,0.631,0.854,57.721,0.0,Pearson χ²,0.36,0.0,True
+Privacy & HIPAA,top_privacy,PAY,Payer / insurer,9,10,0.9,0.596,0.982,57.721,0.0,Pearson χ²,0.36,0.0,True
+Privacy & HIPAA,top_privacy,POL,Policy / academic / consulting,5,11,0.455,0.213,0.72,57.721,0.0,Pearson χ²,0.36,0.0,True
+Privacy & HIPAA,top_privacy,TEC,Tech / pharma / device,4,8,0.5,0.215,0.785,57.721,0.0,Pearson χ²,0.36,0.0,True

@@ -1,0 +1,30 @@
+axis,stance,stance_label,industry_n,industry_share,patient_n,patient_share,diff_industry_minus_patient,axis_chi2,axis_p
+Human oversight,H1,Universal mandatory oversight,11,0.093,66,0.493,-0.399,53.434,1.4818263363376723e-11
+Human oversight,H2,Risk-tiered oversight,105,0.89,61,0.455,0.435,53.434,1.4818263363376723e-11
+Human oversight,H3,Recommended not mandated,2,0.017,5,0.037,-0.02,53.434,1.4818263363376723e-11
+Human oversight,H4,Autonomous OK,0,0.0,2,0.015,-0.015,53.434,1.4818263363376723e-11
+Regulatory approach,R1,New AI-specific regulation,14,0.098,70,0.522,-0.424,63.078,6.534935492011146e-13
+Regulatory approach,R2,Risk-tiered adaptation,47,0.329,25,0.187,0.142,63.078,6.534935492011146e-13
+Regulatory approach,R3,Clarify existing rules,65,0.455,27,0.201,0.253,63.078,6.534935492011146e-13
+Regulatory approach,R4,Reduce burden,6,0.042,8,0.06,-0.018,63.078,6.534935492011146e-13
+Regulatory approach,R5,Industry self-governance,11,0.077,4,0.03,0.047,63.078,6.534935492011146e-13
+Liability allocation,L1,Increase developer accountability,2,0.021,13,0.197,-0.176,18.583,0.0009489151568461222
+Liability allocation,L2,Shared/distributed liability,57,0.606,40,0.606,0.0,18.583,0.0009489151568461222
+Liability allocation,L3,Current law adequate,2,0.021,0,0.0,0.021,18.583,0.0009489151568461222
+Liability allocation,L4,Federal safe harbor,28,0.298,9,0.136,0.162,18.583,0.0009489151568461222
+Liability allocation,L5,New legal framework,5,0.053,4,0.061,-0.007,18.583,0.0009489151568461222
+Reimbursement,P1,AI-specific payment pathways,22,0.18,10,0.141,0.039,5.157,0.2715984798111813
+Reimbursement,P2,Value-based payment,31,0.254,15,0.211,0.043,5.157,0.2715984798111813
+Reimbursement,P3,Remove FFS barriers,11,0.09,2,0.028,0.062,5.157,0.2715984798111813
+Reimbursement,P4,CMS pilot/demonstration,13,0.107,9,0.127,-0.02,5.157,0.2715984798111813
+Reimbursement,P5,Multiple reforms,45,0.369,35,0.493,-0.124,5.157,0.2715984798111813
+Interoperability,D1,Strengthen current standards,45,0.363,18,0.22,0.143,9.527,0.04919822108920738
+Interoperability,D2,Expand data types,62,0.5,49,0.598,-0.098,9.527,0.04919822108920738
+Interoperability,D3,Patient-controlled data,3,0.024,7,0.085,-0.061,9.527,0.04919822108920738
+Interoperability,D4,Prevent gatekeeping,9,0.073,3,0.037,0.036,9.527,0.04919822108920738
+Interoperability,D5,Federal data infrastructure,5,0.04,5,0.061,-0.021,9.527,0.04919822108920738
+Evaluation,E1,Pre-market validation primary,0,0.0,8,0.068,-0.068,22.143,0.00018772251423758915
+Evaluation,E2,Post-market monitoring primary,7,0.055,10,0.085,-0.03,22.143,0.00018772251423758915
+Evaluation,E3,Full lifecycle,103,0.811,82,0.695,0.116,22.143,0.00018772251423758915
+Evaluation,E4,Developer-led,10,0.079,1,0.008,0.07,22.143,0.00018772251423758915
+Evaluation,E5,Federal evaluation infrastructure,7,0.055,17,0.144,-0.089,22.143,0.00018772251423758915

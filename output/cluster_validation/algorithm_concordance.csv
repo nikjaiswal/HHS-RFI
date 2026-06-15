@@ -1,0 +1,4 @@
+comparison,adjusted_rand_index,best_label_match_rate
+KMeans vs Ward,0.6111,0.8587
+KMeans vs GMM,0.2603,0.6525
+Ward vs GMM,0.1634,0.583

@@ -1,0 +1,35 @@
+variable,label,ai_full_corpus_prevalence,n_validation,ai_vs_a_kappa,ai_vs_a_pabak,ai_vs_b_kappa,ai_vs_b_pabak,a_vs_b_kappa,a_vs_b_pabak
+bar_bias_equity,Bias & equity risk,"0.383 [0.339, 0.429]",100,0.7263,0.76,0.7297,0.76,0.9029,0.92
+bar_clinician_trust,Clinician trust deficit,"0.482 [0.436, 0.528]",100,0.8601,0.86,0.9001,0.9,0.88,0.88
+bar_cost_resources,Cost & resource constraints,"0.522 [0.476, 0.568]",100,0.6378,0.64,0.8364,0.84,0.6352,0.64
+bar_data_fragmentation,Data fragmentation,"0.572 [0.525, 0.617]",100,0.6559,0.66,0.7021,0.7,0.6024,0.6
+bar_liability_risk,Liability risk,"0.518 [0.472, 0.564]",100,0.86,0.86,0.8007,0.8,0.74,0.74
+bar_payment_misalign,Payment misalignment,"0.599 [0.553, 0.643]",100,0.8537,0.86,0.8764,0.88,0.8569,0.86
+bar_privacy_constraints,Privacy constraints,"0.453 [0.407, 0.499]",100,0.5637,0.6,0.3468,0.42,0.4654,0.66
+bar_reg_uncertainty,Regulatory uncertainty,"0.742 [0.700, 0.781]",100,0.6364,0.72,0.742,0.78,0.5476,0.62
+clinical_perspective,Clinical perspective,"0.442 [0.396, 0.488]",100,0.7,0.7,0.76,0.76,0.5908,0.58
+commenter_type,commenter_type,—,100,0.6181,0.34,0.5411,0.2,0.896,0.82
+evidence_type,evidence_type,—,100,0.6421,0.46,0.7728,0.66,0.7432,0.62
+has_cfr_citation,has_cfr_citation,"0.296 [0.255, 0.340]",100,0.9067,0.92,0.9316,0.94,0.8822,0.9
+patient_perspective,Patient perspective,"0.094 [0.070, 0.125]",100,0.1853,0.84,1.0,1.0,0.1853,0.84
+pos_evaluation,Evaluation & monitoring,—,100,0.7214,0.68,0.7386,0.7,0.9168,0.9
+pos_interoperability,Interoperability,—,100,0.8081,0.72,0.8092,0.72,0.9458,0.92
+pos_liability,Liability allocation,—,100,0.8409,0.8,0.9077,0.88,0.8424,0.8
+pos_oversight,Human oversight,—,100,0.6958,0.62,0.6508,0.56,0.8929,0.86
+pos_regulation,Regulatory approach,—,100,0.8529,0.78,0.787,0.68,0.9335,0.9
+pos_reimbursement,Reimbursement,—,100,0.7186,0.58,0.7313,0.6,0.7001,0.56
+top_admin_burden,Administrative burden reduction,"0.623 [0.577, 0.667]",100,0.6964,0.7,0.7222,0.72,0.7406,0.74
+top_equity,Equity & bias,"0.549 [0.503, 0.595]",100,0.5117,0.5,0.8203,0.82,0.6781,0.68
+top_evaluation,Evaluation & monitoring,"0.780 [0.740, 0.816]",100,0.7938,0.84,0.7205,0.78,0.6934,0.74
+top_fda_scope,FDA scope & device classification,"0.464 [0.418, 0.511]",100,0.6455,0.64,0.7236,0.72,0.5757,0.6
+top_interoperability,Interoperability & data standards,"0.646 [0.600, 0.689]",100,0.7569,0.78,0.9353,0.94,0.7367,0.76
+top_liability,Liability & accountability,"0.574 [0.528, 0.619]",100,0.7793,0.78,0.8768,0.88,0.7793,0.78
+top_privacy,Privacy & HIPAA,"0.700 [0.655, 0.740]",100,0.62,0.62,0.6733,0.68,0.7,0.7
+top_regulation,Regulatory framework,"0.805 [0.766, 0.839]",100,0.6466,0.8,0.6615,0.8,0.777,0.88
+top_reimbursement,Reimbursement & payment,"0.641 [0.596, 0.684]",100,0.8878,0.9,0.8911,0.9,0.9133,0.92
+top_safety,Patient safety,"0.778 [0.737, 0.814]",100,0.5708,0.64,0.6543,0.74,0.7098,0.74
+top_standards,Standards & accreditation,"0.791 [0.751, 0.827]",100,0.7219,0.78,0.7656,0.82,0.9065,0.92
+top_transparency,Transparency & explainability,"0.675 [0.630, 0.717]",100,0.7164,0.72,0.7727,0.78,0.8594,0.86
+top_trust,Trust,"0.854 [0.818, 0.884]",100,0.4041,0.54,0.3281,0.42,0.6195,0.64
+top_workflow,Clinical workflow integration,"0.753 [0.711, 0.791]",100,0.6535,0.72,0.6495,0.7,0.6591,0.7
+top_workforce,Workforce impact,"0.500 [0.454, 0.546]",100,0.8207,0.82,0.7421,0.74,0.7994,0.8

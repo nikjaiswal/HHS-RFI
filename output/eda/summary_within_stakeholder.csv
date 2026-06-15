@@ -1,0 +1,11 @@
+stakeholder,label,n,mean_modal_share,mean_position_entropy,within_unity_index
+LAB,Labor,5,0.883,0.811,1.072
+TEC,Tech/pharma/device,8,0.64,0.853,0.787
+HSP,Health system,47,0.63,0.693,0.938
+HIT,Health IT vendor,124,0.615,0.734,0.881
+POL,Policy/academic,11,0.615,0.792,0.823
+AIC,AI company,22,0.598,0.812,0.786
+PAY,Payer,10,0.598,0.843,0.755
+ADV,Patient advocate,77,0.587,0.757,0.83
+IND,Individual,88,0.543,0.68,0.863
+MPS,Medical society,54,0.539,0.789,0.75

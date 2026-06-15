@@ -1,0 +1,15 @@
+.env
+.DS_Store
+Icon
+Icon*
+*.pyc
+__pycache__/
+data/attachments/
+data/all_comments.json
+data/comments.csv
+data/checkpoint.json
+data/sample_*.json
+data/attachment_urls.txt
+.venv/
+venv/
+env/

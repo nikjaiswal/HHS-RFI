@@ -1,0 +1,7 @@
+axis,variable,n_addressed,addressed_rate,addressed_ci_lo,addressed_ci_hi,modal_code,modal_count,modal_share_of_addressed
+Human oversight,pos_oversight,373,0.836,0.799,0.868,H2,245,0.657
+Regulatory approach,pos_regulation,394,0.883,0.85,0.91,R3,137,0.348
+Liability allocation,pos_liability,238,0.534,0.487,0.579,L2,148,0.622
+Reimbursement,pos_reimbursement,280,0.628,0.582,0.671,P5,118,0.421
+Interoperability,pos_interoperability,290,0.65,0.605,0.693,D2,148,0.51
+Evaluation & monitoring,pos_evaluation,356,0.798,0.758,0.833,E3,281,0.789

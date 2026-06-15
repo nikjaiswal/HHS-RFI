@@ -1,0 +1,2 @@
+n_samples,n_features,outcome_classes,train_accuracy,reference_stakeholder
+446,12,"Comprehensive Pragmatists, Limited Engagement, Selective Universalists",0.742,IND (Individual)

@@ -1,0 +1,805 @@
+2026-03-15 16:15:43,459 INFO Processing 447 comments (resume=True)
+2026-03-15 16:15:43,459 INFO Extracting HHS-ONC-2026-0001-0002 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:43,735 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0002
+2026-03-15 16:15:43,735 INFO Extracting HHS-ONC-2026-0001-0003 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:44,264 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0003
+2026-03-15 16:15:44,264 INFO Extracting HHS-ONC-2026-0001-0004 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:44,567 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0004
+2026-03-15 16:15:44,567 INFO Extracting HHS-ONC-2026-0001-0005 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:44,831 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0005
+2026-03-15 16:15:44,831 INFO Extracting HHS-ONC-2026-0001-0006 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:45,195 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0006
+2026-03-15 16:15:45,195 INFO Extracting HHS-ONC-2026-0001-0010 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:45,249 INFO Extracting HHS-ONC-2026-0001-0010 attachment_2 (attachment_2.pdf)
+2026-03-15 16:15:45,707 INFO Extracting HHS-ONC-2026-0001-0010 attachment_3 (attachment_3.pdf)
+2026-03-15 16:15:46,420 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0010
+2026-03-15 16:15:46,420 INFO Extracting HHS-ONC-2026-0001-0011 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:46,819 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0011
+2026-03-15 16:15:46,819 INFO Extracting HHS-ONC-2026-0001-0012 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:47,385 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0012
+2026-03-15 16:15:47,386 INFO Extracting HHS-ONC-2026-0001-0014 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:48,277 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0014
+2026-03-15 16:15:48,278 INFO Extracting HHS-ONC-2026-0001-0015 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:48,415 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0015
+2026-03-15 16:15:48,416 INFO Extracting HHS-ONC-2026-0001-0016 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:48,829 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0016
+2026-03-15 16:15:48,829 INFO Extracting HHS-ONC-2026-0001-0018 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:48,981 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0018
+2026-03-15 16:15:48,982 INFO Extracting HHS-ONC-2026-0001-0019 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:49,371 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0019
+2026-03-15 16:15:49,371 INFO Extracting HHS-ONC-2026-0001-0020 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:49,596 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0020
+2026-03-15 16:15:49,596 INFO Extracting HHS-ONC-2026-0001-0021 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:49,926 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0021
+2026-03-15 16:15:49,926 INFO Extracting HHS-ONC-2026-0001-0022 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:51,239 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0022
+2026-03-15 16:15:51,239 INFO Extracting HHS-ONC-2026-0001-0023 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:51,903 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0023
+2026-03-15 16:15:51,904 INFO Extracting HHS-ONC-2026-0001-0024 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:52,149 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0024
+2026-03-15 16:15:52,149 INFO Extracting HHS-ONC-2026-0001-0026 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:52,465 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0026
+2026-03-15 16:15:52,465 INFO Extracting HHS-ONC-2026-0001-0027 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:52,672 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0027
+2026-03-15 16:15:52,672 INFO Extracting HHS-ONC-2026-0001-0029 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:53,043 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0029
+2026-03-15 16:15:53,044 INFO Extracting HHS-ONC-2026-0001-0031 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:53,519 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0031
+2026-03-15 16:15:53,519 INFO Extracting HHS-ONC-2026-0001-0033 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:54,152 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0033
+2026-03-15 16:15:54,152 INFO Extracting HHS-ONC-2026-0001-0034 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:54,471 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0034
+2026-03-15 16:15:54,471 INFO Extracting HHS-ONC-2026-0001-0035 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:54,663 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0035
+2026-03-15 16:15:54,664 INFO Extracting HHS-ONC-2026-0001-0037 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:55,019 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0037
+2026-03-15 16:15:55,019 INFO Extracting HHS-ONC-2026-0001-0038 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:55,263 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0038
+2026-03-15 16:15:55,263 INFO Extracting HHS-ONC-2026-0001-0039 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:56,228 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0039
+2026-03-15 16:15:56,228 INFO Extracting HHS-ONC-2026-0001-0040 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:56,658 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0040
+2026-03-15 16:15:56,658 INFO Extracting HHS-ONC-2026-0001-0041 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:56,861 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0041
+2026-03-15 16:15:56,862 INFO Extracting HHS-ONC-2026-0001-0042 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:56,996 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0042
+2026-03-15 16:15:56,996 INFO Extracting HHS-ONC-2026-0001-0043 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:57,430 INFO Extracting HHS-ONC-2026-0001-0043 attachment_2 (attachment_2.pdf)
+2026-03-15 16:15:58,276 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0043
+2026-03-15 16:15:58,277 INFO Extracting HHS-ONC-2026-0001-0044 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:58,698 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0044
+2026-03-15 16:15:58,698 INFO Extracting HHS-ONC-2026-0001-0045 attachment_1 (attachment_1.pdf)
+2026-03-15 16:15:59,982 INFO Extracting HHS-ONC-2026-0001-0045 attachment_2 (attachment_2.pdf)
+2026-03-15 16:16:01,115 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0045
+2026-03-15 16:16:01,115 INFO Extracting HHS-ONC-2026-0001-0046 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:01,928 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0046
+2026-03-15 16:16:01,928 INFO Extracting HHS-ONC-2026-0001-0047 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:02,248 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0047
+2026-03-15 16:16:02,248 INFO Extracting HHS-ONC-2026-0001-0048 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:02,445 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0048
+2026-03-15 16:16:02,445 INFO Extracting HHS-ONC-2026-0001-0049 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:03,330 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0049
+2026-03-15 16:16:03,330 INFO Extracting HHS-ONC-2026-0001-0050 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:04,120 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0050
+2026-03-15 16:16:04,120 INFO Extracting HHS-ONC-2026-0001-0054 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:04,459 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0054
+2026-03-15 16:16:04,459 INFO Extracting HHS-ONC-2026-0001-0056 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:04,909 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0056
+2026-03-15 16:16:04,909 INFO Extracting HHS-ONC-2026-0001-0057 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:05,200 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0057
+2026-03-15 16:16:05,200 INFO Extracting HHS-ONC-2026-0001-0059 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:05,417 INFO Extracting HHS-ONC-2026-0001-0059 attachment_2 (attachment_2.pdf)
+2026-03-15 16:16:07,991 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0059
+2026-03-15 16:16:07,992 INFO Extracting HHS-ONC-2026-0001-0060 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:08,202 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0060
+2026-03-15 16:16:08,202 INFO Extracting HHS-ONC-2026-0001-0061 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:08,750 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0061
+2026-03-15 16:16:08,750 INFO Extracting HHS-ONC-2026-0001-0063 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:09,201 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0063
+2026-03-15 16:16:09,202 INFO Extracting HHS-ONC-2026-0001-0064 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:09,816 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0064
+2026-03-15 16:16:09,816 INFO Extracting HHS-ONC-2026-0001-0066 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:10,093 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0066
+2026-03-15 16:16:10,093 INFO Extracting HHS-ONC-2026-0001-0071 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:11,813 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0071
+2026-03-15 16:16:11,813 INFO Extracting HHS-ONC-2026-0001-0072 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:12,714 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0072
+2026-03-15 16:16:12,715 INFO Extracting HHS-ONC-2026-0001-0073 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:14,271 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0073
+2026-03-15 16:16:14,271 INFO Extracting HHS-ONC-2026-0001-0074 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:15,108 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0074
+2026-03-15 16:16:15,108 INFO Extracting HHS-ONC-2026-0001-0075 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:15,707 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0075
+2026-03-15 16:16:15,707 INFO Extracting HHS-ONC-2026-0001-0076 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:16,792 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0076
+2026-03-15 16:16:16,792 INFO Extracting HHS-ONC-2026-0001-0077 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:17,240 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0077
+2026-03-15 16:16:17,241 INFO Extracting HHS-ONC-2026-0001-0078 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:17,702 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0078
+2026-03-15 16:16:17,702 INFO Extracting HHS-ONC-2026-0001-0080 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:18,268 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0080
+2026-03-15 16:16:18,268 INFO Extracting HHS-ONC-2026-0001-0081 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:19,035 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0081
+2026-03-15 16:16:19,035 INFO Extracting HHS-ONC-2026-0001-0082 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:19,547 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0082
+2026-03-15 16:16:19,547 INFO Extracting HHS-ONC-2026-0001-0083 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:20,246 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0083
+2026-03-15 16:16:20,246 INFO Extracting HHS-ONC-2026-0001-0084 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:20,872 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0084
+2026-03-15 16:16:20,872 INFO Extracting HHS-ONC-2026-0001-0085 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:21,483 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0085
+2026-03-15 16:16:21,483 INFO Extracting HHS-ONC-2026-0001-0086 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:22,349 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0086
+2026-03-15 16:16:22,349 INFO Extracting HHS-ONC-2026-0001-0088 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:22,874 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0088
+2026-03-15 16:16:22,875 INFO Extracting HHS-ONC-2026-0001-0089 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:23,728 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0089
+2026-03-15 16:16:23,729 INFO Extracting HHS-ONC-2026-0001-0090 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:24,200 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0090
+2026-03-15 16:16:24,200 INFO Extracting HHS-ONC-2026-0001-0091 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:24,629 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0091
+2026-03-15 16:16:24,629 INFO Extracting HHS-ONC-2026-0001-0092 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:25,090 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0092
+2026-03-15 16:16:25,090 INFO Extracting HHS-ONC-2026-0001-0093 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:25,432 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0093
+2026-03-15 16:16:25,432 INFO Extracting HHS-ONC-2026-0001-0094 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:25,796 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0094
+2026-03-15 16:16:25,796 INFO Extracting HHS-ONC-2026-0001-0095 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:27,144 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0095
+2026-03-15 16:16:27,145 INFO Extracting HHS-ONC-2026-0001-0096 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:28,071 INFO Extracting HHS-ONC-2026-0001-0096 attachment_2 (attachment_2.pdf)
+2026-03-15 16:16:28,395 INFO Extracting HHS-ONC-2026-0001-0096 attachment_3 (attachment_3.pdf)
+2026-03-15 16:16:28,862 INFO Extracting HHS-ONC-2026-0001-0096 attachment_4 (attachment_4.pdf)
+2026-03-15 16:16:29,069 INFO Extracting HHS-ONC-2026-0001-0096 attachment_5 (attachment_5.pdf)
+2026-03-15 16:16:29,390 INFO Extracting HHS-ONC-2026-0001-0096 attachment_6 (attachment_6.pdf)
+2026-03-15 16:16:29,422 INFO Extracting HHS-ONC-2026-0001-0096 attachment_7 (attachment_7.pdf)
+2026-03-15 16:16:29,463 INFO Extracting HHS-ONC-2026-0001-0096 attachment_8 (attachment_8.pdf)
+2026-03-15 16:16:29,465 INFO Extracting HHS-ONC-2026-0001-0096 attachment_9 (attachment_9.pdf)
+2026-03-15 16:16:29,467 INFO Extracting HHS-ONC-2026-0001-0096 attachment_10 (attachment_10.pdf)
+2026-03-15 16:16:29,471 INFO Extracting HHS-ONC-2026-0001-0096 attachment_11 (attachment_11.pdf)
+2026-03-15 16:16:29,473 INFO Extracting HHS-ONC-2026-0001-0096 attachment_12 (attachment_12.pdf)
+2026-03-15 16:16:29,588 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0096
+2026-03-15 16:16:29,588 INFO Extracting HHS-ONC-2026-0001-0097 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:30,327 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0097
+2026-03-15 16:16:30,328 INFO Extracting HHS-ONC-2026-0001-0098 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:31,106 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0098
+2026-03-15 16:16:31,106 INFO Extracting HHS-ONC-2026-0001-0099 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:31,628 INFO Extracting HHS-ONC-2026-0001-0099 attachment_2 (attachment_2.pdf)
+2026-03-15 16:16:32,264 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0099
+2026-03-15 16:16:32,264 INFO Extracting HHS-ONC-2026-0001-0100 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:32,685 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0100
+2026-03-15 16:16:32,685 INFO Extracting HHS-ONC-2026-0001-0101 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:33,138 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0101
+2026-03-15 16:16:33,138 INFO Extracting HHS-ONC-2026-0001-0102 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:34,400 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0102
+2026-03-15 16:16:34,400 INFO Extracting HHS-ONC-2026-0001-0103 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:35,487 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0103
+2026-03-15 16:16:35,487 INFO Extracting HHS-ONC-2026-0001-0107 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:35,979 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0107
+2026-03-15 16:16:35,979 INFO Extracting HHS-ONC-2026-0001-0110 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:36,851 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0110
+2026-03-15 16:16:36,851 INFO Extracting HHS-ONC-2026-0001-0113 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:38,034 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0113
+2026-03-15 16:16:38,034 INFO Extracting HHS-ONC-2026-0001-0116 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:38,415 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0116
+2026-03-15 16:16:38,415 INFO Extracting HHS-ONC-2026-0001-0117 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:38,755 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0117
+2026-03-15 16:16:38,755 INFO Extracting HHS-ONC-2026-0001-0121 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:39,659 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0121
+2026-03-15 16:16:39,659 INFO Extracting HHS-ONC-2026-0001-0122 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:40,741 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0122
+2026-03-15 16:16:40,741 INFO Extracting HHS-ONC-2026-0001-0123 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:41,373 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0123
+2026-03-15 16:16:41,374 INFO Extracting HHS-ONC-2026-0001-0124 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:42,234 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0124
+2026-03-15 16:16:42,234 INFO Extracting HHS-ONC-2026-0001-0125 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:43,023 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0125
+2026-03-15 16:16:43,023 INFO Extracting HHS-ONC-2026-0001-0127 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:43,840 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0127
+2026-03-15 16:16:43,840 INFO Extracting HHS-ONC-2026-0001-0128 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:44,514 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0128
+2026-03-15 16:16:44,514 INFO Extracting HHS-ONC-2026-0001-0129 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:45,517 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0129
+2026-03-15 16:16:45,517 INFO Extracting HHS-ONC-2026-0001-0131 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:45,779 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0131
+2026-03-15 16:16:45,780 INFO Extracting HHS-ONC-2026-0001-0132 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:46,702 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0132
+2026-03-15 16:16:46,702 INFO Extracting HHS-ONC-2026-0001-0133 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:46,945 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0133
+2026-03-15 16:16:46,945 INFO Extracting HHS-ONC-2026-0001-0134 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:47,369 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0134
+2026-03-15 16:16:47,369 INFO Extracting HHS-ONC-2026-0001-0135 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:47,806 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0135
+2026-03-15 16:16:47,806 INFO Extracting HHS-ONC-2026-0001-0136 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:48,317 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0136
+2026-03-15 16:16:48,317 INFO Extracting HHS-ONC-2026-0001-0137 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:49,098 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0137
+2026-03-15 16:16:49,098 INFO Extracting HHS-ONC-2026-0001-0138 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:49,534 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0138
+2026-03-15 16:16:49,534 INFO Extracting HHS-ONC-2026-0001-0139 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:50,305 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0139
+2026-03-15 16:16:50,306 INFO Extracting HHS-ONC-2026-0001-0140 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:50,663 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0140
+2026-03-15 16:16:50,663 INFO Extracting HHS-ONC-2026-0001-0141 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:50,987 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0141
+2026-03-15 16:16:50,987 INFO Extracting HHS-ONC-2026-0001-0142 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:51,748 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0142
+2026-03-15 16:16:51,748 INFO Extracting HHS-ONC-2026-0001-0143 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:52,698 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0143
+2026-03-15 16:16:52,698 INFO Extracting HHS-ONC-2026-0001-0144 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:53,933 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0144
+2026-03-15 16:16:53,934 INFO Extracting HHS-ONC-2026-0001-0145 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:55,027 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0145
+2026-03-15 16:16:55,027 INFO Extracting HHS-ONC-2026-0001-0146 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:55,748 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0146
+2026-03-15 16:16:55,749 INFO Extracting HHS-ONC-2026-0001-0147 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:57,939 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0147
+2026-03-15 16:16:57,939 INFO Extracting HHS-ONC-2026-0001-0148 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:58,367 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0148
+2026-03-15 16:16:58,367 INFO Extracting HHS-ONC-2026-0001-0149 attachment_1 (attachment_1.pdf)
+2026-03-15 16:16:59,719 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0149
+2026-03-15 16:16:59,720 INFO Extracting HHS-ONC-2026-0001-0150 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:00,115 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0150
+2026-03-15 16:17:00,115 INFO Extracting HHS-ONC-2026-0001-0151 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:00,474 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0151
+2026-03-15 16:17:00,475 INFO Extracting HHS-ONC-2026-0001-0152 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:01,137 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0152
+2026-03-15 16:17:01,137 INFO Extracting HHS-ONC-2026-0001-0153 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:01,511 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0153
+2026-03-15 16:17:01,511 INFO Extracting HHS-ONC-2026-0001-0154 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:01,993 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0154
+2026-03-15 16:17:01,993 INFO Extracting HHS-ONC-2026-0001-0155 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:02,629 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0155
+2026-03-15 16:17:02,629 INFO Extracting HHS-ONC-2026-0001-0156 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:03,321 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0156
+2026-03-15 16:17:03,321 INFO Extracting HHS-ONC-2026-0001-0157 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:03,963 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0157
+2026-03-15 16:17:03,963 INFO Extracting HHS-ONC-2026-0001-0158 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:04,266 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0158
+2026-03-15 16:17:04,266 INFO Extracting HHS-ONC-2026-0001-0159 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:04,626 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0159
+2026-03-15 16:17:04,626 INFO Extracting HHS-ONC-2026-0001-0161 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:05,092 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0161
+2026-03-15 16:17:05,092 INFO Extracting HHS-ONC-2026-0001-0162 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:06,094 INFO Extracting HHS-ONC-2026-0001-0162 attachment_2 (attachment_2.pdf)
+2026-03-15 16:17:07,097 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0162
+2026-03-15 16:17:07,098 INFO Extracting HHS-ONC-2026-0001-0163 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:08,483 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0163
+2026-03-15 16:17:08,483 INFO Extracting HHS-ONC-2026-0001-0164 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:09,368 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0164
+2026-03-15 16:17:09,368 INFO Extracting HHS-ONC-2026-0001-0166 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:10,195 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0166
+2026-03-15 16:17:10,195 INFO Extracting HHS-ONC-2026-0001-0168 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:10,567 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0168
+2026-03-15 16:17:10,567 INFO Extracting HHS-ONC-2026-0001-0170 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:11,723 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0170
+2026-03-15 16:17:11,723 INFO Extracting HHS-ONC-2026-0001-0171 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:12,075 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0171
+2026-03-15 16:17:12,075 INFO Extracting HHS-ONC-2026-0001-0178 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:13,347 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0178
+2026-03-15 16:17:13,347 INFO Extracting HHS-ONC-2026-0001-0179 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:14,213 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0179
+2026-03-15 16:17:14,214 INFO Extracting HHS-ONC-2026-0001-0180 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:14,731 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0180
+2026-03-15 16:17:14,731 INFO Extracting HHS-ONC-2026-0001-0181 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:15,184 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0181
+2026-03-15 16:17:15,184 INFO Extracting HHS-ONC-2026-0001-0183 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:15,726 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0183
+2026-03-15 16:17:15,726 INFO Extracting HHS-ONC-2026-0001-0185 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:16,018 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0185
+2026-03-15 16:17:16,018 INFO Extracting HHS-ONC-2026-0001-0186 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:17,068 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0186
+2026-03-15 16:17:17,068 INFO Extracting HHS-ONC-2026-0001-0187 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:19,477 INFO Extracting HHS-ONC-2026-0001-0187 attachment_2 (attachment_2.pdf)
+2026-03-15 16:17:22,117 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0187
+2026-03-15 16:17:22,117 INFO Extracting HHS-ONC-2026-0001-0188 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:23,208 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0188
+2026-03-15 16:17:23,208 INFO Extracting HHS-ONC-2026-0001-0189 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:24,114 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0189
+2026-03-15 16:17:24,114 INFO Extracting HHS-ONC-2026-0001-0190 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:24,648 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0190
+2026-03-15 16:17:24,648 INFO Extracting HHS-ONC-2026-0001-0191 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:25,141 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0191
+2026-03-15 16:17:25,142 INFO Extracting HHS-ONC-2026-0001-0192 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:25,767 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0192
+2026-03-15 16:17:25,767 INFO Extracting HHS-ONC-2026-0001-0193 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:26,417 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0193
+2026-03-15 16:17:26,417 INFO Extracting HHS-ONC-2026-0001-0194 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:26,936 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0194
+2026-03-15 16:17:26,936 INFO Extracting HHS-ONC-2026-0001-0195 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:27,096 INFO Extracting HHS-ONC-2026-0001-0195 attachment_2 (attachment_2.pdf)
+2026-03-15 16:17:27,258 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0195
+2026-03-15 16:17:27,258 INFO Extracting HHS-ONC-2026-0001-0196 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:27,789 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0196
+2026-03-15 16:17:27,789 INFO Extracting HHS-ONC-2026-0001-0197 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:28,218 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0197
+2026-03-15 16:17:28,218 INFO Extracting HHS-ONC-2026-0001-0198 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:29,330 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0198
+2026-03-15 16:17:29,331 INFO Extracting HHS-ONC-2026-0001-0199 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:31,148 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0199
+2026-03-15 16:17:31,149 INFO Extracting HHS-ONC-2026-0001-0200 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:31,897 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0200
+2026-03-15 16:17:31,897 INFO Extracting HHS-ONC-2026-0001-0201 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:32,981 INFO Extracting HHS-ONC-2026-0001-0201 attachment_2 (attachment_2.pdf)
+2026-03-15 16:17:33,928 INFO Extracting HHS-ONC-2026-0001-0201 attachment_3 (attachment_3.pdf)
+2026-03-15 16:17:33,929 INFO Extracting HHS-ONC-2026-0001-0201 attachment_4 (attachment_4.pdf)
+2026-03-15 16:17:34,173 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0201
+2026-03-15 16:17:34,173 INFO Extracting HHS-ONC-2026-0001-0202 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:34,770 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0202
+2026-03-15 16:17:34,770 INFO Extracting HHS-ONC-2026-0001-0203 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:35,201 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0203
+2026-03-15 16:17:35,201 INFO Extracting HHS-ONC-2026-0001-0204 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:36,148 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0204
+2026-03-15 16:17:36,148 INFO Extracting HHS-ONC-2026-0001-0206 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:36,648 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0206
+2026-03-15 16:17:36,648 INFO Extracting HHS-ONC-2026-0001-0207 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:37,495 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0207
+2026-03-15 16:17:37,496 INFO Extracting HHS-ONC-2026-0001-0208 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:38,539 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0208
+2026-03-15 16:17:38,539 INFO Extracting HHS-ONC-2026-0001-0209 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:39,632 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0209
+2026-03-15 16:17:39,632 INFO Extracting HHS-ONC-2026-0001-0210 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:40,803 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0210
+2026-03-15 16:17:40,803 INFO Extracting HHS-ONC-2026-0001-0211 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:41,659 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0211
+2026-03-15 16:17:41,659 INFO Extracting HHS-ONC-2026-0001-0212 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:42,698 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0212
+2026-03-15 16:17:42,698 INFO Extracting HHS-ONC-2026-0001-0213 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:43,271 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0213
+2026-03-15 16:17:43,271 INFO Extracting HHS-ONC-2026-0001-0214 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:43,680 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0214
+2026-03-15 16:17:43,680 INFO Extracting HHS-ONC-2026-0001-0215 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:44,142 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0215
+2026-03-15 16:17:44,142 INFO Extracting HHS-ONC-2026-0001-0216 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:45,034 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0216
+2026-03-15 16:17:45,034 INFO Extracting HHS-ONC-2026-0001-0217 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:45,036 INFO Extracting HHS-ONC-2026-0001-0217 attachment_2 (attachment_2.pdf)
+2026-03-15 16:17:45,560 INFO Extracting HHS-ONC-2026-0001-0217 attachment_3 (attachment_3.pdf)
+2026-03-15 16:17:46,095 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0217
+2026-03-15 16:17:46,095 INFO Extracting HHS-ONC-2026-0001-0218 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:46,918 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0218
+2026-03-15 16:17:46,918 INFO Extracting HHS-ONC-2026-0001-0219 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:47,440 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0219
+2026-03-15 16:17:47,440 INFO Extracting HHS-ONC-2026-0001-0220 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:48,694 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0220
+2026-03-15 16:17:48,694 INFO Extracting HHS-ONC-2026-0001-0221 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:50,197 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0221
+2026-03-15 16:17:50,197 INFO Extracting HHS-ONC-2026-0001-0222 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:51,058 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0222
+2026-03-15 16:17:51,058 INFO Extracting HHS-ONC-2026-0001-0223 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:51,779 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0223
+2026-03-15 16:17:51,779 INFO Extracting HHS-ONC-2026-0001-0224 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:52,051 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0224
+2026-03-15 16:17:52,051 INFO Extracting HHS-ONC-2026-0001-0225 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:52,746 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0225
+2026-03-15 16:17:52,746 INFO Extracting HHS-ONC-2026-0001-0226 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:53,357 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0226
+2026-03-15 16:17:53,357 INFO Extracting HHS-ONC-2026-0001-0227 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:54,041 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0227
+2026-03-15 16:17:54,041 INFO Extracting HHS-ONC-2026-0001-0229 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:55,182 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0229
+2026-03-15 16:17:55,182 INFO Extracting HHS-ONC-2026-0001-0230 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:55,625 INFO Extracting HHS-ONC-2026-0001-0230 attachment_2 (attachment_2.pdf)
+2026-03-15 16:17:56,323 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0230
+2026-03-15 16:17:56,323 INFO Extracting HHS-ONC-2026-0001-0231 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:56,791 INFO Extracting HHS-ONC-2026-0001-0231 attachment_2 (attachment_2.pdf)
+2026-03-15 16:17:57,404 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0231
+2026-03-15 16:17:57,404 INFO Extracting HHS-ONC-2026-0001-0232 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:58,049 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0232
+2026-03-15 16:17:58,050 INFO Extracting HHS-ONC-2026-0001-0233 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:58,327 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0233
+2026-03-15 16:17:58,327 INFO Extracting HHS-ONC-2026-0001-0234 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:59,181 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0234
+2026-03-15 16:17:59,181 INFO Extracting HHS-ONC-2026-0001-0235 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:59,885 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0235
+2026-03-15 16:17:59,885 INFO Extracting HHS-ONC-2026-0001-0236 attachment_1 (attachment_1.pdf)
+2026-03-15 16:17:59,904 INFO Extracting HHS-ONC-2026-0001-0236 attachment_2 (attachment_2.pdf)
+2026-03-15 16:18:01,072 INFO Extracting HHS-ONC-2026-0001-0236 attachment_3 (attachment_3.pdf)
+2026-03-15 16:18:01,172 INFO Extracting HHS-ONC-2026-0001-0236 attachment_4 (attachment_4.pdf)
+2026-03-15 16:18:01,190 INFO Extracting HHS-ONC-2026-0001-0236 attachment_5 (attachment_5.pdf)
+2026-03-15 16:18:02,309 INFO Extracting HHS-ONC-2026-0001-0236 attachment_6 (attachment_6.pdf)
+2026-03-15 16:18:02,665 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0236
+2026-03-15 16:18:02,665 INFO Extracting HHS-ONC-2026-0001-0237 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:03,784 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0237
+2026-03-15 16:18:03,785 INFO Extracting HHS-ONC-2026-0001-0238 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:04,430 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0238
+2026-03-15 16:18:04,430 INFO Extracting HHS-ONC-2026-0001-0239 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:04,816 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0239
+2026-03-15 16:18:04,817 INFO Extracting HHS-ONC-2026-0001-0240 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:05,459 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0240
+2026-03-15 16:18:05,459 INFO Extracting HHS-ONC-2026-0001-0241 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:06,945 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0241
+2026-03-15 16:18:06,945 INFO Extracting HHS-ONC-2026-0001-0242 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:09,171 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0242
+2026-03-15 16:18:09,171 INFO Extracting HHS-ONC-2026-0001-0243 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:10,326 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0243
+2026-03-15 16:18:10,326 INFO Extracting HHS-ONC-2026-0001-0245 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:11,496 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0245
+2026-03-15 16:18:11,496 INFO Extracting HHS-ONC-2026-0001-0247 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:12,762 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0247
+2026-03-15 16:18:12,762 INFO Extracting HHS-ONC-2026-0001-0248 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:14,588 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0248
+2026-03-15 16:18:14,588 INFO Extracting HHS-ONC-2026-0001-0250 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:15,032 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0250
+2026-03-15 16:18:15,032 INFO Extracting HHS-ONC-2026-0001-0252 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:15,482 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0252
+2026-03-15 16:18:15,482 INFO Extracting HHS-ONC-2026-0001-0253 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:16,032 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0253
+2026-03-15 16:18:16,032 INFO Extracting HHS-ONC-2026-0001-0255 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:16,561 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0255
+2026-03-15 16:18:16,561 INFO Extracting HHS-ONC-2026-0001-0256 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:17,328 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0256
+2026-03-15 16:18:17,328 INFO Extracting HHS-ONC-2026-0001-0258 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:17,941 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0258
+2026-03-15 16:18:17,941 INFO Extracting HHS-ONC-2026-0001-0260 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:19,369 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0260
+2026-03-15 16:18:19,370 INFO Extracting HHS-ONC-2026-0001-0261 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:20,039 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0261
+2026-03-15 16:18:20,039 INFO Extracting HHS-ONC-2026-0001-0262 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:20,781 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0262
+2026-03-15 16:18:20,781 INFO Extracting HHS-ONC-2026-0001-0263 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:23,211 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0263
+2026-03-15 16:18:23,212 INFO Extracting HHS-ONC-2026-0001-0264 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:24,339 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0264
+2026-03-15 16:18:24,340 INFO Extracting HHS-ONC-2026-0001-0265 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:25,766 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0265
+2026-03-15 16:18:25,766 INFO Extracting HHS-ONC-2026-0001-0267 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:26,420 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0267
+2026-03-15 16:18:26,421 INFO Extracting HHS-ONC-2026-0001-0268 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:27,461 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0268
+2026-03-15 16:18:27,462 INFO Extracting HHS-ONC-2026-0001-0269 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:28,314 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0269
+2026-03-15 16:18:28,314 INFO Extracting HHS-ONC-2026-0001-0270 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:28,817 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0270
+2026-03-15 16:18:28,817 INFO Extracting HHS-ONC-2026-0001-0271 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:29,613 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0271
+2026-03-15 16:18:29,613 INFO Extracting HHS-ONC-2026-0001-0272 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:30,466 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0272
+2026-03-15 16:18:30,466 INFO Extracting HHS-ONC-2026-0001-0273 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:31,765 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0273
+2026-03-15 16:18:31,766 INFO Extracting HHS-ONC-2026-0001-0274 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:32,988 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0274
+2026-03-15 16:18:32,988 INFO Extracting HHS-ONC-2026-0001-0276 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:33,772 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0276
+2026-03-15 16:18:33,775 INFO Extracting HHS-ONC-2026-0001-0277 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:34,560 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0277
+2026-03-15 16:18:34,560 INFO Extracting HHS-ONC-2026-0001-0278 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:35,543 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0278
+2026-03-15 16:18:35,543 INFO Extracting HHS-ONC-2026-0001-0279 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:36,503 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0279
+2026-03-15 16:18:36,503 INFO Extracting HHS-ONC-2026-0001-0280 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:36,946 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0280
+2026-03-15 16:18:36,946 INFO Extracting HHS-ONC-2026-0001-0281 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:39,204 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0281
+2026-03-15 16:18:39,204 INFO Extracting HHS-ONC-2026-0001-0282 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:40,072 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0282
+2026-03-15 16:18:40,072 INFO Extracting HHS-ONC-2026-0001-0283 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:41,018 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0283
+2026-03-15 16:18:41,019 INFO Extracting HHS-ONC-2026-0001-0284 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:41,823 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0284
+2026-03-15 16:18:41,823 INFO Extracting HHS-ONC-2026-0001-0286 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:42,506 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0286
+2026-03-15 16:18:42,506 INFO Extracting HHS-ONC-2026-0001-0287 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:43,784 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0287
+2026-03-15 16:18:43,784 INFO Extracting HHS-ONC-2026-0001-0288 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:45,227 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0288
+2026-03-15 16:18:45,227 INFO Extracting HHS-ONC-2026-0001-0289 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:46,227 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0289
+2026-03-15 16:18:46,227 INFO Extracting HHS-ONC-2026-0001-0290 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:46,722 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0290
+2026-03-15 16:18:46,722 INFO Extracting HHS-ONC-2026-0001-0291 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:47,757 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0291
+2026-03-15 16:18:47,757 INFO Extracting HHS-ONC-2026-0001-0292 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:48,639 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0292
+2026-03-15 16:18:48,639 INFO Extracting HHS-ONC-2026-0001-0293 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:49,291 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0293
+2026-03-15 16:18:49,291 INFO Extracting HHS-ONC-2026-0001-0294 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:50,029 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0294
+2026-03-15 16:18:50,029 INFO Extracting HHS-ONC-2026-0001-0295 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:50,905 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0295
+2026-03-15 16:18:50,905 INFO Extracting HHS-ONC-2026-0001-0296 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:51,613 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0296
+2026-03-15 16:18:51,614 INFO Extracting HHS-ONC-2026-0001-0297 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:52,254 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0297
+2026-03-15 16:18:52,254 INFO Extracting HHS-ONC-2026-0001-0298 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:53,645 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0298
+2026-03-15 16:18:53,645 INFO Extracting HHS-ONC-2026-0001-0299 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:54,506 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0299
+2026-03-15 16:18:54,506 INFO Extracting HHS-ONC-2026-0001-0300 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:55,558 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0300
+2026-03-15 16:18:55,559 INFO Extracting HHS-ONC-2026-0001-0301 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:56,650 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0301
+2026-03-15 16:18:56,650 INFO Extracting HHS-ONC-2026-0001-0302 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:57,185 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0302
+2026-03-15 16:18:57,185 INFO Extracting HHS-ONC-2026-0001-0303 attachment_1 (attachment_1.pdf)
+2026-03-15 16:18:59,561 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0303
+2026-03-15 16:18:59,561 INFO Extracting HHS-ONC-2026-0001-0304 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:00,864 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0304
+2026-03-15 16:19:00,864 INFO Extracting HHS-ONC-2026-0001-0305 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:01,509 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0305
+2026-03-15 16:19:01,509 INFO Extracting HHS-ONC-2026-0001-0306 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:02,367 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0306
+2026-03-15 16:19:02,367 INFO Extracting HHS-ONC-2026-0001-0307 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:02,880 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0307
+2026-03-15 16:19:02,880 INFO Extracting HHS-ONC-2026-0001-0308 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:04,536 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0308
+2026-03-15 16:19:04,536 INFO Extracting HHS-ONC-2026-0001-0309 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:05,204 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0309
+2026-03-15 16:19:05,204 INFO Extracting HHS-ONC-2026-0001-0310 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:06,241 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0310
+2026-03-15 16:19:06,241 INFO Extracting HHS-ONC-2026-0001-0311 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:07,063 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0311
+2026-03-15 16:19:07,063 INFO Extracting HHS-ONC-2026-0001-0312 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:07,760 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0312
+2026-03-15 16:19:07,760 INFO Extracting HHS-ONC-2026-0001-0313 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:09,060 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0313
+2026-03-15 16:19:09,060 INFO Extracting HHS-ONC-2026-0001-0314 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:09,875 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0314
+2026-03-15 16:19:09,875 INFO Extracting HHS-ONC-2026-0001-0315 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:11,467 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0315
+2026-03-15 16:19:11,467 INFO Extracting HHS-ONC-2026-0001-0316 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:12,077 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0316
+2026-03-15 16:19:12,081 INFO Extracting HHS-ONC-2026-0001-0317 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:13,059 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0317
+2026-03-15 16:19:13,060 INFO Extracting HHS-ONC-2026-0001-0318 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:14,032 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0318
+2026-03-15 16:19:14,032 INFO Extracting HHS-ONC-2026-0001-0319 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:14,992 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0319
+2026-03-15 16:19:14,993 INFO Extracting HHS-ONC-2026-0001-0320 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:16,186 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0320
+2026-03-15 16:19:16,186 INFO Extracting HHS-ONC-2026-0001-0321 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:17,015 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0321
+2026-03-15 16:19:17,015 INFO Extracting HHS-ONC-2026-0001-0322 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:18,220 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0322
+2026-03-15 16:19:18,220 INFO Extracting HHS-ONC-2026-0001-0323 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:19,179 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0323
+2026-03-15 16:19:19,180 INFO Extracting HHS-ONC-2026-0001-0324 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:21,736 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0324
+2026-03-15 16:19:21,736 INFO Extracting HHS-ONC-2026-0001-0325 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:22,523 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0325
+2026-03-15 16:19:22,524 INFO Extracting HHS-ONC-2026-0001-0326 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:23,698 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0326
+2026-03-15 16:19:23,699 INFO Extracting HHS-ONC-2026-0001-0328 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:25,185 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0328
+2026-03-15 16:19:25,185 INFO Extracting HHS-ONC-2026-0001-0329 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:27,868 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0329
+2026-03-15 16:19:27,868 INFO Extracting HHS-ONC-2026-0001-0330 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:28,573 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0330
+2026-03-15 16:19:28,573 INFO Extracting HHS-ONC-2026-0001-0331 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:29,882 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0331
+2026-03-15 16:19:29,883 INFO Extracting HHS-ONC-2026-0001-0332 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:30,597 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0332
+2026-03-15 16:19:30,597 INFO Extracting HHS-ONC-2026-0001-0334 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:31,194 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0334
+2026-03-15 16:19:31,194 INFO Extracting HHS-ONC-2026-0001-0335 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:32,067 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0335
+2026-03-15 16:19:32,067 INFO Extracting HHS-ONC-2026-0001-0336 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:32,640 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0336
+2026-03-15 16:19:32,640 INFO Extracting HHS-ONC-2026-0001-0337 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:33,252 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0337
+2026-03-15 16:19:33,252 INFO Extracting HHS-ONC-2026-0001-0338 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:34,674 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0338
+2026-03-15 16:19:34,674 INFO Extracting HHS-ONC-2026-0001-0339 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:35,384 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0339
+2026-03-15 16:19:35,384 INFO Extracting HHS-ONC-2026-0001-0340 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:36,328 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0340
+2026-03-15 16:19:36,328 INFO Extracting HHS-ONC-2026-0001-0341 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:37,222 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0341
+2026-03-15 16:19:37,222 INFO Extracting HHS-ONC-2026-0001-0342 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:38,339 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0342
+2026-03-15 16:19:38,339 INFO Extracting HHS-ONC-2026-0001-0343 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:39,279 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0343
+2026-03-15 16:19:39,280 INFO Extracting HHS-ONC-2026-0001-0344 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:39,642 INFO Extracting HHS-ONC-2026-0001-0344 attachment_2 (attachment_2.pdf)
+2026-03-15 16:19:40,083 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0344
+2026-03-15 16:19:40,083 INFO Extracting HHS-ONC-2026-0001-0346 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:40,740 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0346
+2026-03-15 16:19:40,740 INFO Extracting HHS-ONC-2026-0001-0347 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:41,593 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0347
+2026-03-15 16:19:41,593 INFO Extracting HHS-ONC-2026-0001-0348 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:42,642 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0348
+2026-03-15 16:19:42,642 INFO Extracting HHS-ONC-2026-0001-0349 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:43,456 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0349
+2026-03-15 16:19:43,457 INFO Extracting HHS-ONC-2026-0001-0350 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:44,402 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0350
+2026-03-15 16:19:44,402 INFO Extracting HHS-ONC-2026-0001-0351 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:45,939 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0351
+2026-03-15 16:19:45,939 INFO Extracting HHS-ONC-2026-0001-0352 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:46,516 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0352
+2026-03-15 16:19:46,516 INFO Extracting HHS-ONC-2026-0001-0353 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:46,947 INFO Extracting HHS-ONC-2026-0001-0353 attachment_2 (attachment_2.pdf)
+2026-03-15 16:19:47,918 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0353
+2026-03-15 16:19:47,918 INFO Extracting HHS-ONC-2026-0001-0354 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:48,731 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0354
+2026-03-15 16:19:48,731 INFO Extracting HHS-ONC-2026-0001-0355 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:49,594 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0355
+2026-03-15 16:19:49,594 INFO Extracting HHS-ONC-2026-0001-0356 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:50,288 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0356
+2026-03-15 16:19:50,288 INFO Extracting HHS-ONC-2026-0001-0357 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:53,375 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0357
+2026-03-15 16:19:53,375 INFO Extracting HHS-ONC-2026-0001-0358 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:54,466 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0358
+2026-03-15 16:19:54,466 INFO Extracting HHS-ONC-2026-0001-0359 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:54,901 INFO Extracting HHS-ONC-2026-0001-0359 attachment_2 (attachment_2.pdf)
+2026-03-15 16:19:57,391 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0359
+2026-03-15 16:19:57,391 INFO Extracting HHS-ONC-2026-0001-0360 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:58,869 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0360
+2026-03-15 16:19:58,870 INFO Extracting HHS-ONC-2026-0001-0361 attachment_1 (attachment_1.pdf)
+2026-03-15 16:19:59,874 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0361
+2026-03-15 16:19:59,874 INFO Extracting HHS-ONC-2026-0001-0362 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:00,965 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0362
+2026-03-15 16:20:00,965 INFO Extracting HHS-ONC-2026-0001-0363 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:01,737 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0363
+2026-03-15 16:20:01,737 INFO Extracting HHS-ONC-2026-0001-0364 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:02,575 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0364
+2026-03-15 16:20:02,575 INFO Extracting HHS-ONC-2026-0001-0365 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:03,546 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0365
+2026-03-15 16:20:03,546 INFO Extracting HHS-ONC-2026-0001-0366 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:04,365 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0366
+2026-03-15 16:20:04,366 INFO Extracting HHS-ONC-2026-0001-0367 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:05,414 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0367
+2026-03-15 16:20:05,414 INFO Extracting HHS-ONC-2026-0001-0368 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:06,229 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0368
+2026-03-15 16:20:06,229 INFO Extracting HHS-ONC-2026-0001-0369 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:07,308 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0369
+2026-03-15 16:20:07,308 INFO Extracting HHS-ONC-2026-0001-0370 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:09,061 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0370
+2026-03-15 16:20:09,061 INFO Extracting HHS-ONC-2026-0001-0372 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:09,842 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0372
+2026-03-15 16:20:09,842 INFO Extracting HHS-ONC-2026-0001-0373 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:10,779 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0373
+2026-03-15 16:20:10,779 INFO Extracting HHS-ONC-2026-0001-0374 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:14,142 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0374
+2026-03-15 16:20:14,142 INFO Extracting HHS-ONC-2026-0001-0375 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:14,892 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0375
+2026-03-15 16:20:14,892 INFO Extracting HHS-ONC-2026-0001-0376 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:15,960 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0376
+2026-03-15 16:20:15,960 INFO Extracting HHS-ONC-2026-0001-0377 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:18,774 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0377
+2026-03-15 16:20:18,774 INFO Extracting HHS-ONC-2026-0001-0378 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:19,826 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0378
+2026-03-15 16:20:19,826 INFO Extracting HHS-ONC-2026-0001-0379 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:20,636 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0379
+2026-03-15 16:20:20,636 INFO Extracting HHS-ONC-2026-0001-0380 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:21,374 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0380
+2026-03-15 16:20:21,374 INFO Extracting HHS-ONC-2026-0001-0381 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:22,764 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0381
+2026-03-15 16:20:22,764 INFO Extracting HHS-ONC-2026-0001-0382 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:23,786 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0382
+2026-03-15 16:20:23,786 INFO Extracting HHS-ONC-2026-0001-0383 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:24,596 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0383
+2026-03-15 16:20:24,596 INFO Extracting HHS-ONC-2026-0001-0384 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:25,569 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0384
+2026-03-15 16:20:25,569 INFO Extracting HHS-ONC-2026-0001-0385 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:27,222 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0385
+2026-03-15 16:20:27,223 INFO Extracting HHS-ONC-2026-0001-0386 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:28,128 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0386
+2026-03-15 16:20:28,128 INFO Extracting HHS-ONC-2026-0001-0387 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:29,575 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0387
+2026-03-15 16:20:29,575 INFO Extracting HHS-ONC-2026-0001-0389 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:30,578 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0389
+2026-03-15 16:20:30,578 INFO Extracting HHS-ONC-2026-0001-0390 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:31,447 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0390
+2026-03-15 16:20:31,447 INFO Extracting HHS-ONC-2026-0001-0391 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:32,605 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0391
+2026-03-15 16:20:32,605 INFO Extracting HHS-ONC-2026-0001-0392 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:33,394 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0392
+2026-03-15 16:20:33,394 INFO Extracting HHS-ONC-2026-0001-0393 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:34,274 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0393
+2026-03-15 16:20:34,274 INFO Extracting HHS-ONC-2026-0001-0394 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:36,190 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0394
+2026-03-15 16:20:36,191 INFO Extracting HHS-ONC-2026-0001-0395 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:36,544 INFO Extracting HHS-ONC-2026-0001-0395 attachment_2 (attachment_2.pdf)
+2026-03-15 16:20:37,417 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0395
+2026-03-15 16:20:37,417 INFO Extracting HHS-ONC-2026-0001-0396 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:38,245 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0396
+2026-03-15 16:20:38,245 INFO Extracting HHS-ONC-2026-0001-0397 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:39,329 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0397
+2026-03-15 16:20:39,329 INFO Extracting HHS-ONC-2026-0001-0398 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:40,611 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0398
+2026-03-15 16:20:40,611 INFO Extracting HHS-ONC-2026-0001-0399 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:41,592 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0399
+2026-03-15 16:20:41,592 INFO Extracting HHS-ONC-2026-0001-0400 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:42,756 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0400
+2026-03-15 16:20:42,757 INFO Extracting HHS-ONC-2026-0001-0401 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:44,018 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0401
+2026-03-15 16:20:44,019 INFO Extracting HHS-ONC-2026-0001-0402 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:44,716 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0402
+2026-03-15 16:20:44,717 INFO Extracting HHS-ONC-2026-0001-0403 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:47,110 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0403
+2026-03-15 16:20:47,111 INFO Extracting HHS-ONC-2026-0001-0404 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:48,020 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0404
+2026-03-15 16:20:48,021 INFO Extracting HHS-ONC-2026-0001-0405 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:48,886 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0405
+2026-03-15 16:20:48,886 INFO Extracting HHS-ONC-2026-0001-0406 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:49,698 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0406
+2026-03-15 16:20:49,698 INFO Extracting HHS-ONC-2026-0001-0407 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:51,125 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0407
+2026-03-15 16:20:51,125 INFO Extracting HHS-ONC-2026-0001-0408 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:52,243 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0408
+2026-03-15 16:20:52,243 INFO Extracting HHS-ONC-2026-0001-0409 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:53,209 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0409
+2026-03-15 16:20:53,209 INFO Extracting HHS-ONC-2026-0001-0410 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:53,711 INFO Extracting HHS-ONC-2026-0001-0410 attachment_2 (attachment_2.pdf)
+2026-03-15 16:20:54,488 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0410
+2026-03-15 16:20:54,488 INFO Extracting HHS-ONC-2026-0001-0411 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:54,979 INFO Extracting HHS-ONC-2026-0001-0411 attachment_2 (attachment_2.pdf)
+2026-03-15 16:20:55,799 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0411
+2026-03-15 16:20:55,799 INFO Extracting HHS-ONC-2026-0001-0412 attachment_1 (attachment_1.pdf)
+2026-03-15 16:20:56,093 INFO Extracting HHS-ONC-2026-0001-0412 attachment_2 (attachment_2.pdf)
+2026-03-15 16:21:02,567 INFO Extracting HHS-ONC-2026-0001-0412 attachment_3 (attachment_3.pdf)
+2026-03-15 16:21:06,264 INFO Extracting HHS-ONC-2026-0001-0412 attachment_4 (attachment_4.pdf)
+2026-03-15 16:21:12,415 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0412
+2026-03-15 16:21:12,415 INFO Extracting HHS-ONC-2026-0001-0413 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:13,282 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0413
+2026-03-15 16:21:13,282 INFO Extracting HHS-ONC-2026-0001-0414 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:15,001 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0414
+2026-03-15 16:21:15,002 INFO Extracting HHS-ONC-2026-0001-0415 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:16,400 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0415
+2026-03-15 16:21:16,400 INFO Extracting HHS-ONC-2026-0001-0416 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:17,294 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0416
+2026-03-15 16:21:17,294 INFO Extracting HHS-ONC-2026-0001-0417 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:18,654 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0417
+2026-03-15 16:21:18,655 INFO Extracting HHS-ONC-2026-0001-0418 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:19,611 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0418
+2026-03-15 16:21:19,611 INFO Extracting HHS-ONC-2026-0001-0419 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:21,333 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0419
+2026-03-15 16:21:21,334 INFO Extracting HHS-ONC-2026-0001-0420 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:26,117 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0420
+2026-03-15 16:21:26,117 INFO Extracting HHS-ONC-2026-0001-0421 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:27,105 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0421
+2026-03-15 16:21:27,105 INFO Extracting HHS-ONC-2026-0001-0422 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:28,535 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0422
+2026-03-15 16:21:28,535 INFO Extracting HHS-ONC-2026-0001-0423 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:29,628 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0423
+2026-03-15 16:21:29,629 INFO Extracting HHS-ONC-2026-0001-0424 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:31,470 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0424
+2026-03-15 16:21:31,470 INFO Extracting HHS-ONC-2026-0001-0425 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:32,287 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0425
+2026-03-15 16:21:32,287 INFO Extracting HHS-ONC-2026-0001-0427 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:33,063 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0427
+2026-03-15 16:21:33,063 INFO Extracting HHS-ONC-2026-0001-0429 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:34,355 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0429
+2026-03-15 16:21:34,355 INFO Extracting HHS-ONC-2026-0001-0430 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:37,200 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0430
+2026-03-15 16:21:37,200 INFO Extracting HHS-ONC-2026-0001-0431 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:38,481 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0431
+2026-03-15 16:21:38,482 INFO Extracting HHS-ONC-2026-0001-0432 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:39,281 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0432
+2026-03-15 16:21:39,282 INFO Extracting HHS-ONC-2026-0001-0433 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:40,049 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0433
+2026-03-15 16:21:40,049 INFO Extracting HHS-ONC-2026-0001-0434 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:41,442 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0434
+2026-03-15 16:21:41,442 INFO Extracting HHS-ONC-2026-0001-0436 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:45,627 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0436
+2026-03-15 16:21:45,627 INFO Extracting HHS-ONC-2026-0001-0437 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:46,376 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0437
+2026-03-15 16:21:46,376 INFO Extracting HHS-ONC-2026-0001-0438 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:47,209 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0438
+2026-03-15 16:21:47,209 INFO Extracting HHS-ONC-2026-0001-0439 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:47,830 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0439
+2026-03-15 16:21:47,830 INFO Extracting HHS-ONC-2026-0001-0440 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:49,421 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0440
+2026-03-15 16:21:49,421 INFO Extracting HHS-ONC-2026-0001-0441 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:50,248 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0441
+2026-03-15 16:21:50,248 INFO Extracting HHS-ONC-2026-0001-0443 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:50,250 INFO Extracting HHS-ONC-2026-0001-0443 attachment_2 (attachment_2.pdf)
+2026-03-15 16:21:51,341 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0443
+2026-03-15 16:21:51,341 INFO Extracting HHS-ONC-2026-0001-0444 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:52,606 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0444
+2026-03-15 16:21:52,607 INFO Extracting HHS-ONC-2026-0001-0445 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:54,123 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0445
+2026-03-15 16:21:54,124 INFO Extracting HHS-ONC-2026-0001-0446 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:55,147 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0446
+2026-03-15 16:21:55,147 INFO Extracting HHS-ONC-2026-0001-0447 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:55,983 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0447
+2026-03-15 16:21:55,983 INFO Extracting HHS-ONC-2026-0001-0448 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:57,015 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0448
+2026-03-15 16:21:57,015 INFO Extracting HHS-ONC-2026-0001-0007 attachment_1 (attachment_1.pdf)
+2026-03-15 16:21:57,723 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0007
+2026-03-15 16:21:57,724 INFO Extracting HHS-ONC-2026-0001-0009 attachment_1 (attachment_1.pdf)
+2026-03-15 16:22:01,346 DEBUG Checkpoint: saved after comment HHS-ONC-2026-0001-0009
+2026-03-15 16:22:01,346 INFO Attachments: 421 total, 421 extracted, 0 skipped (resume), 0 missing file, 0 errors
+2026-03-15 16:22:01,975 INFO Wrote data/all_comments.json and data/comments.csv
+g file, 0 errors
+2026-03-15 16:22:01,975 INFO Wrote data/all_comments.json and data/comments.csv

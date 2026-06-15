@@ -1,0 +1,30 @@
+{
+  "n_samples": 446,
+  "n_features": 12,
+  "feature_names": [
+    "ctype_ADV",
+    "ctype_AIC",
+    "ctype_HIT",
+    "ctype_HSP",
+    "ctype_LAB",
+    "ctype_MPS",
+    "ctype_PAY",
+    "ctype_POL",
+    "ctype_TEC",
+    "n_proposals",
+    "log_total_chars",
+    "has_cfr"
+  ],
+  "outcome_classes": [
+    "Comprehensive Pragmatists",
+    "Limited Engagement",
+    "Selective Universalists"
+  ],
+  "reference_stakeholder": "IND (Individual)",
+  "train_accuracy": 0.6771300448430493,
+  "mcfadden_pseudo_r2": 0.3206820838443871,
+  "predictors_excluded": [
+    "topic_count (excluded as quasi-tautological with engagement-defined outcome)"
+  ],
+  "n_significant_predictors_95ci": 11
+}

@@ -1,0 +1,31 @@
+coalition,stakeholder,stakeholder_label,n,stakeholder_total,share_of_stakeholder
+Comprehensive Pragmatists,ADV,Advocacy org,35,77,0.455
+Comprehensive Pragmatists,AIC,AI company,12,22,0.545
+Comprehensive Pragmatists,HIT,Health IT,82,124,0.661
+Comprehensive Pragmatists,HSP,Health system,37,47,0.787
+Comprehensive Pragmatists,IND,Individual,18,88,0.205
+Comprehensive Pragmatists,LAB,Labor,3,5,0.6
+Comprehensive Pragmatists,MPS,Medical society,24,54,0.444
+Comprehensive Pragmatists,PAY,Payer,6,10,0.6
+Comprehensive Pragmatists,POL,Policy/academic,6,11,0.545
+Comprehensive Pragmatists,TEC,Tech/pharma,3,8,0.375
+Limited Engagement,ADV,Advocacy org,14,77,0.182
+Limited Engagement,AIC,AI company,7,22,0.318
+Limited Engagement,HIT,Health IT,38,124,0.306
+Limited Engagement,HSP,Health system,6,47,0.128
+Limited Engagement,IND,Individual,41,88,0.466
+Limited Engagement,LAB,Labor,2,5,0.4
+Limited Engagement,MPS,Medical society,12,54,0.222
+Limited Engagement,PAY,Payer,2,10,0.2
+Limited Engagement,POL,Policy/academic,3,11,0.273
+Limited Engagement,TEC,Tech/pharma,4,8,0.5
+Selective Universalists,ADV,Advocacy org,28,77,0.364
+Selective Universalists,AIC,AI company,3,22,0.136
+Selective Universalists,HIT,Health IT,4,124,0.032
+Selective Universalists,HSP,Health system,4,47,0.085
+Selective Universalists,IND,Individual,29,88,0.33
+Selective Universalists,LAB,Labor,0,5,0.0
+Selective Universalists,MPS,Medical society,18,54,0.333
+Selective Universalists,PAY,Payer,2,10,0.2
+Selective Universalists,POL,Policy/academic,2,11,0.182
+Selective Universalists,TEC,Tech/pharma,1,8,0.125

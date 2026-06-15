@@ -1,0 +1,33 @@
+category,comment_id,organization,commenter_type,n_proposals,topic_count,axes_addressed,has_cfr_citation
+Most policy proposals,HHS-ONC-2026-0001-0011,EHY Consulting LLC,IND,15,15,6,0
+Most policy proposals,HHS-ONC-2026-0001-0022,Interstella,HIT,15,15,6,1
+Most policy proposals,HHS-ONC-2026-0001-0045,Ellipsis Health,HIT,15,15,6,0
+Most policy proposals,HHS-ONC-2026-0001-0049,"Cooperative Exchange, The National Clearinghouse Association",HIT,15,11,6,0
+Most policy proposals,HHS-ONC-2026-0001-0050,"Bethany R. Russell, Ph.D., P.A.",IND,15,15,6,1
+Most policy proposals,HHS-ONC-2026-0001-0072,American Urological Association (AUA),MPS,15,15,6,1
+Most policy proposals,HHS-ONC-2026-0001-0071,,IND,15,15,6,0
+Most policy proposals,HHS-ONC-2026-0001-0123,Massachusetts Health & Hospital Association,HSP,15,14,6,0
+Most topics engaged,HHS-ONC-2026-0001-0012,Sancian LLC,AIC,14,15,6,1
+Most topics engaged,HHS-ONC-2026-0001-0011,EHY Consulting LLC,IND,15,15,6,0
+Most topics engaged,HHS-ONC-2026-0001-0022,Interstella,HIT,15,15,6,1
+Most topics engaged,HHS-ONC-2026-0001-0045,Ellipsis Health,HIT,15,15,6,0
+Most topics engaged,HHS-ONC-2026-0001-0050,"Bethany R. Russell, Ph.D., P.A.",IND,15,15,6,1
+Most topics engaged,HHS-ONC-2026-0001-0064,Cyberhill Partners,HIT,13,15,6,1
+Most topics engaged,HHS-ONC-2026-0001-0072,American Urological Association (AUA),MPS,15,15,6,1
+Most topics engaged,HHS-ONC-2026-0001-0071,,IND,15,15,6,0
+Most governance axes addressed,HHS-ONC-2026-0001-0005,Health AI Institute,AIC,5,13,6,0
+Most governance axes addressed,HHS-ONC-2026-0001-0012,Sancian LLC,AIC,14,15,6,1
+Most governance axes addressed,HHS-ONC-2026-0001-0011,EHY Consulting LLC,IND,15,15,6,0
+Most governance axes addressed,HHS-ONC-2026-0001-0014,Ferz.AI,HIT,12,13,6,1
+Most governance axes addressed,HHS-ONC-2026-0001-0022,Interstella,HIT,15,15,6,1
+Most governance axes addressed,HHS-ONC-2026-0001-0033,"HealthScoreAI, Inc.",HIT,9,12,6,1
+Most governance axes addressed,HHS-ONC-2026-0001-0037,Radiology Business Management Association,MPS,10,13,6,0
+Most governance axes addressed,HHS-ONC-2026-0001-0043,,IND,14,14,6,1
+CFR-cited (sample),HHS-ONC-2026-0001-0012,Sancian LLC,AIC,14,15,6,1
+CFR-cited (sample),HHS-ONC-2026-0001-0010,,IND,5,9,5,1
+CFR-cited (sample),HHS-ONC-2026-0001-0014,Ferz.AI,HIT,12,13,6,1
+CFR-cited (sample),HHS-ONC-2026-0001-0022,Interstella,HIT,15,15,6,1
+CFR-cited (sample),HHS-ONC-2026-0001-0023,Association of periOperative Registered Nurses (AORN),ADV,10,13,5,1
+CFR-cited (sample),HHS-ONC-2026-0001-0027,Tapestryhealth,HSP,6,11,3,1
+CFR-cited (sample),HHS-ONC-2026-0001-0033,"HealthScoreAI, Inc.",HIT,9,12,6,1
+CFR-cited (sample),HHS-ONC-2026-0001-0043,,IND,14,14,6,1

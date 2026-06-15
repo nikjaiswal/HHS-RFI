@@ -1,0 +1,16 @@
+axis_1,axis_2,chi2,p_value,cramers_v,q_value_bh,significant_bh_05
+Human oversight,Regulatory approach,279.666,0.0,0.396,0.0,True
+Regulatory approach,Evaluation & monitoring,262.984,0.0,0.343,0.0,True
+Human oversight,Evaluation & monitoring,183.556,0.0,0.321,0.0,True
+Human oversight,Liability allocation,139.078,0.0,0.279,0.0,True
+Regulatory approach,Liability allocation,153.982,0.0,0.263,0.0,True
+Regulatory approach,Interoperability,139.331,0.0,0.25,0.0,True
+Human oversight,Reimbursement,109.833,0.0,0.248,0.0,True
+Regulatory approach,Reimbursement,132.856,0.0,0.244,0.0,True
+Liability allocation,Evaluation & monitoring,130.397,0.0,0.242,0.0,True
+Human oversight,Interoperability,98.904,0.0,0.235,0.0,True
+Interoperability,Evaluation & monitoring,108.385,0.0,0.22,0.0,True
+Liability allocation,Interoperability,104.587,0.0,0.217,0.0,True
+Reimbursement,Interoperability,102.697,0.0,0.215,0.0,True
+Liability allocation,Reimbursement,86.288,0.0,0.197,0.0,True
+Reimbursement,Evaluation & monitoring,85.319,0.0,0.196,0.0,True

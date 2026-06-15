@@ -1,0 +1,61 @@
+stakeholder,stakeholder_label,axis,n_addressing,address_rate,modal_stance,modal_stance_label,modal_n,modal_share_of_addressing,modal_share_ci_lo,modal_share_ci_hi
+ADV,Patient advocate,Human oversight,72,0.935,H2,Risk-tiered oversight,37,0.514,0.401,0.626
+ADV,Patient advocate,Regulatory approach,70,0.909,R1,New AI-specific regulation,35,0.5,0.386,0.614
+ADV,Patient advocate,Liability allocation,48,0.623,L2,Shared/distributed liability,31,0.646,0.504,0.766
+ADV,Patient advocate,Reimbursement,47,0.61,P5,Multiple reforms,24,0.511,0.372,0.647
+ADV,Patient advocate,Interoperability,42,0.545,D2,Expand data types,23,0.548,0.399,0.688
+ADV,Patient advocate,Evaluation,62,0.805,E3,Full lifecycle,50,0.806,0.691,0.886
+AIC,AI company,Human oversight,16,0.727,H2,Risk-tiered oversight,14,0.875,0.64,0.965
+AIC,AI company,Regulatory approach,20,0.909,R2,Risk-tiered adaptation,8,0.4,0.219,0.613
+AIC,AI company,Liability allocation,12,0.545,L2,Shared/distributed liability,8,0.667,0.391,0.862
+AIC,AI company,Reimbursement,17,0.773,P5,Multiple reforms,8,0.471,0.262,0.69
+AIC,AI company,Interoperability,15,0.682,D2,Expand data types,6,0.4,0.198,0.643
+AIC,AI company,Evaluation,18,0.818,E3,Full lifecycle,14,0.778,0.548,0.91
+HIT,Health IT,Human oversight,97,0.782,H2,Risk-tiered oversight,87,0.897,0.821,0.943
+HIT,Health IT,Regulatory approach,116,0.935,R3,Clarify existing rules,58,0.5,0.41,0.59
+HIT,Health IT,Liability allocation,78,0.629,L2,Shared/distributed liability,46,0.59,0.479,0.692
+HIT,Health IT,Reimbursement,100,0.806,P5,Multiple reforms,36,0.36,0.273,0.458
+HIT,Health IT,Interoperability,102,0.823,D2,Expand data types,53,0.52,0.424,0.614
+HIT,Health IT,Evaluation,101,0.815,E3,Full lifecycle,83,0.822,0.736,0.884
+HSP,Health system,Human oversight,46,0.979,H2,Risk-tiered oversight,37,0.804,0.668,0.893
+HSP,Health system,Regulatory approach,45,0.957,R2,Risk-tiered adaptation,19,0.422,0.29,0.567
+HSP,Health system,Liability allocation,36,0.766,L2,Shared/distributed liability,26,0.722,0.56,0.842
+HSP,Health system,Reimbursement,41,0.872,P5,Multiple reforms,19,0.463,0.321,0.613
+HSP,Health system,Interoperability,34,0.723,D2,Expand data types,18,0.529,0.367,0.685
+HSP,Health system,Evaluation,44,0.936,E3,Full lifecycle,37,0.841,0.706,0.921
+IND,Individual,Human oversight,62,0.705,H1,Universal mandatory oversight,33,0.532,0.41,0.651
+IND,Individual,Regulatory approach,64,0.727,R1,New AI-specific regulation,35,0.547,0.426,0.663
+IND,Individual,Liability allocation,18,0.205,L2,Shared/distributed liability,9,0.5,0.29,0.71
+IND,Individual,Reimbursement,24,0.273,P5,Multiple reforms,11,0.458,0.279,0.649
+IND,Individual,Interoperability,40,0.455,D2,Expand data types,26,0.65,0.495,0.779
+IND,Individual,Evaluation,56,0.636,E3,Full lifecycle,32,0.571,0.441,0.692
+LAB,Labor,Human oversight,4,0.8,H2,Risk-tiered oversight,3,0.75,0.301,0.954
+LAB,Labor,Regulatory approach,5,1.0,R3,Clarify existing rules,4,0.8,0.376,0.964
+LAB,Labor,Liability allocation,1,0.2,L2,Shared/distributed liability,1,1.0,0.207,1.0
+LAB,Labor,Reimbursement,4,0.8,P1,AI-specific payment pathways,3,0.75,0.301,0.954
+LAB,Labor,Interoperability,3,0.6,D2,Expand data types,3,1.0,0.439,1.0
+LAB,Labor,Evaluation,4,0.8,E3,Full lifecycle,4,1.0,0.51,1.0
+MPS,Medical society,Human oversight,51,0.944,H1,Universal mandatory oversight,26,0.51,0.377,0.641
+MPS,Medical society,Regulatory approach,46,0.852,R3,Clarify existing rules,15,0.326,0.209,0.47
+MPS,Medical society,Liability allocation,32,0.593,L2,Shared/distributed liability,20,0.625,0.453,0.771
+MPS,Medical society,Reimbursement,29,0.537,P5,Multiple reforms,13,0.448,0.284,0.625
+MPS,Medical society,Interoperability,35,0.648,D1,Strengthen current standards,17,0.486,0.33,0.644
+MPS,Medical society,Evaluation,44,0.815,E3,Full lifecycle,37,0.841,0.706,0.921
+PAY,Payer,Human oversight,10,1.0,H2,Risk-tiered oversight,7,0.7,0.397,0.892
+PAY,Payer,Regulatory approach,10,1.0,R2,Risk-tiered adaptation,5,0.5,0.237,0.763
+PAY,Payer,Liability allocation,4,0.4,L4,Federal safe harbor,2,0.5,0.15,0.85
+PAY,Payer,Reimbursement,7,0.7,P5,Multiple reforms,3,0.429,0.158,0.75
+PAY,Payer,Interoperability,7,0.7,D1,Strengthen current standards,4,0.571,0.25,0.842
+PAY,Payer,Evaluation,9,0.9,E3,Full lifecycle,8,0.889,0.565,0.98
+POL,Policy/academic,Human oversight,10,0.909,H2,Risk-tiered oversight,7,0.7,0.397,0.892
+POL,Policy/academic,Regulatory approach,11,1.0,R3,Clarify existing rules,5,0.455,0.213,0.72
+POL,Policy/academic,Liability allocation,5,0.455,L2,Shared/distributed liability,3,0.6,0.231,0.882
+POL,Policy/academic,Reimbursement,6,0.545,P1,AI-specific payment pathways,2,0.333,0.097,0.7
+POL,Policy/academic,Interoperability,5,0.455,D1,Strengthen current standards,3,0.6,0.231,0.882
+POL,Policy/academic,Evaluation,10,0.909,E3,Full lifecycle,10,1.0,0.722,1.0
+TEC,Tech/pharma,Human oversight,5,0.625,H2,Risk-tiered oversight,4,0.8,0.376,0.964
+TEC,Tech/pharma,Regulatory approach,7,0.875,R2,Risk-tiered adaptation,4,0.571,0.25,0.842
+TEC,Tech/pharma,Liability allocation,4,0.5,L2,Shared/distributed liability,3,0.75,0.301,0.954
+TEC,Tech/pharma,Reimbursement,5,0.625,P4,CMS pilot/demonstration,2,0.4,0.118,0.769
+TEC,Tech/pharma,Interoperability,7,0.875,D1,Strengthen current standards,4,0.571,0.25,0.842
+TEC,Tech/pharma,Evaluation,8,1.0,E3,Full lifecycle,6,0.75,0.409,0.929

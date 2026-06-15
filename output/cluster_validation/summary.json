@@ -1,0 +1,16 @@
+{
+  "n_samples": 446,
+  "silhouette_optimal_k": 2,
+  "silhouette_at_k3": 0.1748299692714221,
+  "gap_optimal_k": null,
+  "gap_at_k3": -0.08657366680974743,
+  "bic_optimal_k": 8,
+  "bic_at_k3": -42989.28838197615,
+  "bootstrap_ARI_k3": 0.804789245738133,
+  "bootstrap_ARI_k3_ci": [
+    0.3256688694532145,
+    0.9743983062935364
+  ],
+  "kmeans_ward_ari_at_k3": 0.6111,
+  "kmeans_gmm_ari_at_k3": 0.2603
+}

@@ -1,0 +1,46 @@
+coalition,topic,variable,n_yes,n_total,prevalence,ci_lo,ci_hi
+Comprehensive Pragmatists,Regulatory framework,top_regulation,214,226,0.947,0.909,0.969
+Comprehensive Pragmatists,Evaluation & monitoring,top_evaluation,222,226,0.982,0.955,0.993
+Comprehensive Pragmatists,Reimbursement & payment,top_reimbursement,206,226,0.912,0.867,0.942
+Comprehensive Pragmatists,Transparency & explainability,top_transparency,203,226,0.898,0.852,0.931
+Comprehensive Pragmatists,Clinical workflow integration,top_workflow,208,226,0.92,0.878,0.949
+Comprehensive Pragmatists,Trust,top_trust,212,226,0.938,0.899,0.963
+Comprehensive Pragmatists,Patient safety,top_safety,201,226,0.889,0.842,0.924
+Comprehensive Pragmatists,FDA scope & device classification,top_fda_scope,149,226,0.659,0.595,0.718
+Comprehensive Pragmatists,Interoperability & data standards,top_interoperability,200,226,0.885,0.837,0.92
+Comprehensive Pragmatists,Equity & bias,top_equity,163,226,0.721,0.659,0.776
+Comprehensive Pragmatists,Liability & accountability,top_liability,197,226,0.872,0.822,0.909
+Comprehensive Pragmatists,Admin burden reduction,top_admin_burden,187,226,0.827,0.773,0.871
+Comprehensive Pragmatists,Standards & accreditation,top_standards,216,226,0.956,0.92,0.976
+Comprehensive Pragmatists,Workforce impact,top_workforce,138,226,0.611,0.546,0.672
+Comprehensive Pragmatists,Privacy & HIPAA,top_privacy,185,226,0.819,0.763,0.863
+Selective Universalists,Regulatory framework,top_regulation,81,91,0.89,0.809,0.939
+Selective Universalists,Evaluation & monitoring,top_evaluation,69,91,0.758,0.661,0.835
+Selective Universalists,Reimbursement & payment,top_reimbursement,23,91,0.253,0.175,0.351
+Selective Universalists,Transparency & explainability,top_transparency,44,91,0.484,0.384,0.585
+Selective Universalists,Clinical workflow integration,top_workflow,47,91,0.516,0.415,0.616
+Selective Universalists,Trust,top_trust,82,91,0.901,0.823,0.947
+Selective Universalists,Patient safety,top_safety,84,91,0.923,0.85,0.962
+Selective Universalists,FDA scope & device classification,top_fda_scope,28,91,0.308,0.222,0.409
+Selective Universalists,Interoperability & data standards,top_interoperability,21,91,0.231,0.156,0.327
+Selective Universalists,Equity & bias,top_equity,43,91,0.473,0.373,0.574
+Selective Universalists,Liability & accountability,top_liability,42,91,0.462,0.363,0.563
+Selective Universalists,Admin burden reduction,top_admin_burden,34,91,0.374,0.281,0.476
+Selective Universalists,Standards & accreditation,top_standards,58,91,0.637,0.535,0.729
+Selective Universalists,Workforce impact,top_workforce,45,91,0.495,0.394,0.595
+Selective Universalists,Privacy & HIPAA,top_privacy,65,91,0.714,0.614,0.797
+Limited Engagement,Regulatory framework,top_regulation,64,129,0.496,0.411,0.581
+Limited Engagement,Evaluation & monitoring,top_evaluation,57,129,0.442,0.359,0.528
+Limited Engagement,Reimbursement & payment,top_reimbursement,57,129,0.442,0.359,0.528
+Limited Engagement,Transparency & explainability,top_transparency,54,129,0.419,0.337,0.505
+Limited Engagement,Clinical workflow integration,top_workflow,81,129,0.628,0.542,0.706
+Limited Engagement,Trust,top_trust,87,129,0.674,0.59,0.749
+Limited Engagement,Patient safety,top_safety,62,129,0.481,0.396,0.566
+Limited Engagement,FDA scope & device classification,top_fda_scope,30,129,0.233,0.168,0.313
+Limited Engagement,Interoperability & data standards,top_interoperability,67,129,0.519,0.434,0.604
+Limited Engagement,Equity & bias,top_equity,39,129,0.302,0.23,0.386
+Limited Engagement,Liability & accountability,top_liability,17,129,0.132,0.084,0.201
+Limited Engagement,Admin burden reduction,top_admin_burden,57,129,0.442,0.359,0.528
+Limited Engagement,Standards & accreditation,top_standards,79,129,0.612,0.526,0.692
+Limited Engagement,Workforce impact,top_workforce,40,129,0.31,0.237,0.394
+Limited Engagement,Privacy & HIPAA,top_privacy,62,129,0.481,0.396,0.566

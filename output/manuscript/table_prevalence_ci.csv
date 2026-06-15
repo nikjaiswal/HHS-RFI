@@ -1,0 +1,26 @@
+domain,variable,label,n_yes,n_total,prevalence,ci95_lo,ci95_hi
+Barrier,bar_reg_uncertainty,Regulatory uncertainty,331,446,0.742,0.7,0.781
+Barrier,bar_payment_misalign,Payment misalignment,267,446,0.599,0.553,0.643
+Barrier,bar_data_fragmentation,Data fragmentation,255,446,0.572,0.525,0.617
+Barrier,bar_cost_resources,Cost & resource constraints,233,446,0.522,0.476,0.568
+Barrier,bar_liability_risk,Liability risk,231,446,0.518,0.472,0.564
+Barrier,bar_clinician_trust,Clinician trust deficit,215,446,0.482,0.436,0.528
+Barrier,bar_privacy_constraints,Privacy constraints,202,446,0.453,0.407,0.499
+Barrier,bar_bias_equity,Bias & equity risk,171,446,0.383,0.339,0.429
+Perspective,clinical_perspective,Clinical perspective,197,446,0.442,0.396,0.488
+Perspective,patient_perspective,Patient perspective,42,446,0.094,0.07,0.125
+Topic,top_trust,Trust,381,446,0.854,0.818,0.884
+Topic,top_regulation,Regulatory framework,359,446,0.805,0.766,0.839
+Topic,top_standards,Standards & accreditation,353,446,0.791,0.751,0.827
+Topic,top_evaluation,Evaluation & monitoring,348,446,0.78,0.74,0.816
+Topic,top_safety,Patient safety,347,446,0.778,0.737,0.814
+Topic,top_workflow,Clinical workflow integration,336,446,0.753,0.711,0.791
+Topic,top_privacy,Privacy & HIPAA,312,446,0.7,0.655,0.74
+Topic,top_transparency,Transparency & explainability,301,446,0.675,0.63,0.717
+Topic,top_interoperability,Interoperability & data standards,288,446,0.646,0.6,0.689
+Topic,top_reimbursement,Reimbursement & payment,286,446,0.641,0.596,0.684
+Topic,top_admin_burden,Administrative burden reduction,278,446,0.623,0.577,0.667
+Topic,top_liability,Liability & accountability,256,446,0.574,0.528,0.619
+Topic,top_equity,Equity & bias,245,446,0.549,0.503,0.595
+Topic,top_workforce,Workforce impact,223,446,0.5,0.454,0.546
+Topic,top_fda_scope,FDA scope & device classification,207,446,0.464,0.418,0.511

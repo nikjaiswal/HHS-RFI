@@ -1,0 +1,210 @@
+stakeholder,stakeholder_label,axis,stance,stance_label,n_with_stance,n_addressing_axis,n_stakeholder_total,share_of_addressing,ci_lo,ci_hi
+ADV,Patient advocate,Human oversight,H2,Risk-tiered oversight,37,72,77,0.514,0.401,0.626
+ADV,Patient advocate,Human oversight,H1,Universal mandatory oversight,33,72,77,0.458,0.348,0.573
+ADV,Patient advocate,Human oversight,H3,Recommended not mandated,2,72,77,0.028,0.008,0.096
+ADV,Patient advocate,Regulatory approach,R1,New AI-specific regulation,35,70,77,0.5,0.386,0.614
+ADV,Patient advocate,Regulatory approach,R2,Risk-tiered adaptation,17,70,77,0.243,0.158,0.355
+ADV,Patient advocate,Regulatory approach,R3,Clarify existing rules,12,70,77,0.171,0.101,0.276
+ADV,Patient advocate,Regulatory approach,R4,Reduce burden,4,70,77,0.057,0.022,0.138
+ADV,Patient advocate,Regulatory approach,R5,Industry self-governance,2,70,77,0.029,0.008,0.098
+ADV,Patient advocate,Liability allocation,L2,Shared/distributed liability,31,48,77,0.646,0.504,0.766
+ADV,Patient advocate,Liability allocation,L1,Increase developer accountability,10,48,77,0.208,0.117,0.343
+ADV,Patient advocate,Liability allocation,L4,Federal safe harbor,6,48,77,0.125,0.059,0.247
+ADV,Patient advocate,Liability allocation,L5,New legal framework,1,48,77,0.021,0.004,0.109
+ADV,Patient advocate,Reimbursement,P5,Multiple reforms,24,47,77,0.511,0.372,0.647
+ADV,Patient advocate,Reimbursement,P2,Value-based payment,11,47,77,0.234,0.136,0.372
+ADV,Patient advocate,Reimbursement,P1,AI-specific payment pathways,8,47,77,0.17,0.089,0.301
+ADV,Patient advocate,Reimbursement,P4,CMS pilot/demonstration,4,47,77,0.085,0.034,0.199
+ADV,Patient advocate,Interoperability,D2,Expand data types,23,42,77,0.548,0.399,0.688
+ADV,Patient advocate,Interoperability,D1,Strengthen current standards,13,42,77,0.31,0.191,0.46
+ADV,Patient advocate,Interoperability,D3,Patient-controlled data,3,42,77,0.071,0.025,0.19
+ADV,Patient advocate,Interoperability,D5,Federal data infrastructure,2,42,77,0.048,0.013,0.158
+ADV,Patient advocate,Interoperability,D4,Prevent gatekeeping,1,42,77,0.024,0.004,0.123
+ADV,Patient advocate,Evaluation,E3,Full lifecycle,50,62,77,0.806,0.691,0.886
+ADV,Patient advocate,Evaluation,E2,Post-market monitoring primary,5,62,77,0.081,0.035,0.175
+ADV,Patient advocate,Evaluation,E5,Federal evaluation infrastructure,5,62,77,0.081,0.035,0.175
+ADV,Patient advocate,Evaluation,E1,Pre-market validation primary,2,62,77,0.032,0.009,0.11
+AIC,AI company,Human oversight,H2,Risk-tiered oversight,14,16,22,0.875,0.64,0.965
+AIC,AI company,Human oversight,H1,Universal mandatory oversight,2,16,22,0.125,0.035,0.36
+AIC,AI company,Regulatory approach,R2,Risk-tiered adaptation,8,20,22,0.4,0.219,0.613
+AIC,AI company,Regulatory approach,R3,Clarify existing rules,6,20,22,0.3,0.145,0.519
+AIC,AI company,Regulatory approach,R1,New AI-specific regulation,4,20,22,0.2,0.081,0.416
+AIC,AI company,Regulatory approach,R5,Industry self-governance,1,20,22,0.05,0.009,0.236
+AIC,AI company,Regulatory approach,R4,Reduce burden,1,20,22,0.05,0.009,0.236
+AIC,AI company,Liability allocation,L2,Shared/distributed liability,8,12,22,0.667,0.391,0.862
+AIC,AI company,Liability allocation,L4,Federal safe harbor,2,12,22,0.167,0.047,0.448
+AIC,AI company,Liability allocation,L1,Increase developer accountability,1,12,22,0.083,0.015,0.354
+AIC,AI company,Liability allocation,L5,New legal framework,1,12,22,0.083,0.015,0.354
+AIC,AI company,Reimbursement,P5,Multiple reforms,8,17,22,0.471,0.262,0.69
+AIC,AI company,Reimbursement,P4,CMS pilot/demonstration,5,17,22,0.294,0.133,0.531
+AIC,AI company,Reimbursement,P1,AI-specific payment pathways,3,17,22,0.176,0.062,0.41
+AIC,AI company,Reimbursement,P2,Value-based payment,1,17,22,0.059,0.01,0.27
+AIC,AI company,Interoperability,D2,Expand data types,6,15,22,0.4,0.198,0.643
+AIC,AI company,Interoperability,D1,Strengthen current standards,6,15,22,0.4,0.198,0.643
+AIC,AI company,Interoperability,D5,Federal data infrastructure,2,15,22,0.133,0.037,0.379
+AIC,AI company,Interoperability,D4,Prevent gatekeeping,1,15,22,0.067,0.012,0.298
+AIC,AI company,Evaluation,E3,Full lifecycle,14,18,22,0.778,0.548,0.91
+AIC,AI company,Evaluation,E5,Federal evaluation infrastructure,2,18,22,0.111,0.031,0.328
+AIC,AI company,Evaluation,E4,Developer-led,1,18,22,0.056,0.01,0.258
+AIC,AI company,Evaluation,E2,Post-market monitoring primary,1,18,22,0.056,0.01,0.258
+HIT,Health IT,Human oversight,H2,Risk-tiered oversight,87,97,124,0.897,0.821,0.943
+HIT,Health IT,Human oversight,H1,Universal mandatory oversight,8,97,124,0.082,0.042,0.154
+HIT,Health IT,Human oversight,H3,Recommended not mandated,2,97,124,0.021,0.006,0.072
+HIT,Health IT,Regulatory approach,R3,Clarify existing rules,58,116,124,0.5,0.41,0.59
+HIT,Health IT,Regulatory approach,R2,Risk-tiered adaptation,35,116,124,0.302,0.226,0.391
+HIT,Health IT,Regulatory approach,R5,Industry self-governance,9,116,124,0.078,0.041,0.141
+HIT,Health IT,Regulatory approach,R1,New AI-specific regulation,9,116,124,0.078,0.041,0.141
+HIT,Health IT,Regulatory approach,R4,Reduce burden,5,116,124,0.043,0.019,0.097
+HIT,Health IT,Liability allocation,L2,Shared/distributed liability,46,78,124,0.59,0.479,0.692
+HIT,Health IT,Liability allocation,L4,Federal safe harbor,26,78,124,0.333,0.239,0.444
+HIT,Health IT,Liability allocation,L5,New legal framework,3,78,124,0.038,0.013,0.107
+HIT,Health IT,Liability allocation,L3,Current law adequate,2,78,124,0.026,0.007,0.089
+HIT,Health IT,Liability allocation,L1,Increase developer accountability,1,78,124,0.013,0.002,0.069
+HIT,Health IT,Reimbursement,P5,Multiple reforms,36,100,124,0.36,0.273,0.458
+HIT,Health IT,Reimbursement,P2,Value-based payment,29,100,124,0.29,0.21,0.385
+HIT,Health IT,Reimbursement,P1,AI-specific payment pathways,19,100,124,0.19,0.125,0.278
+HIT,Health IT,Reimbursement,P3,Remove FFS barriers,10,100,124,0.1,0.055,0.174
+HIT,Health IT,Reimbursement,P4,CMS pilot/demonstration,6,100,124,0.06,0.028,0.125
+HIT,Health IT,Interoperability,D2,Expand data types,53,102,124,0.52,0.424,0.614
+HIT,Health IT,Interoperability,D1,Strengthen current standards,35,102,124,0.343,0.258,0.439
+HIT,Health IT,Interoperability,D4,Prevent gatekeeping,8,102,124,0.078,0.04,0.147
+HIT,Health IT,Interoperability,D5,Federal data infrastructure,3,102,124,0.029,0.01,0.083
+HIT,Health IT,Interoperability,D3,Patient-controlled data,3,102,124,0.029,0.01,0.083
+HIT,Health IT,Evaluation,E3,Full lifecycle,83,101,124,0.822,0.736,0.884
+HIT,Health IT,Evaluation,E4,Developer-led,9,101,124,0.089,0.048,0.161
+HIT,Health IT,Evaluation,E2,Post-market monitoring primary,5,101,124,0.05,0.021,0.111
+HIT,Health IT,Evaluation,E5,Federal evaluation infrastructure,4,101,124,0.04,0.016,0.097
+HSP,Health system,Human oversight,H2,Risk-tiered oversight,37,46,47,0.804,0.668,0.893
+HSP,Health system,Human oversight,H1,Universal mandatory oversight,8,46,47,0.174,0.091,0.307
+HSP,Health system,Human oversight,H3,Recommended not mandated,1,46,47,0.022,0.004,0.113
+HSP,Health system,Regulatory approach,R2,Risk-tiered adaptation,19,45,47,0.422,0.29,0.567
+HSP,Health system,Regulatory approach,R3,Clarify existing rules,18,45,47,0.4,0.27,0.545
+HSP,Health system,Regulatory approach,R1,New AI-specific regulation,6,45,47,0.133,0.063,0.262
+HSP,Health system,Regulatory approach,R5,Industry self-governance,1,45,47,0.022,0.004,0.116
+HSP,Health system,Regulatory approach,R4,Reduce burden,1,45,47,0.022,0.004,0.116
+HSP,Health system,Liability allocation,L2,Shared/distributed liability,26,36,47,0.722,0.56,0.842
+HSP,Health system,Liability allocation,L4,Federal safe harbor,6,36,47,0.167,0.079,0.319
+HSP,Health system,Liability allocation,L1,Increase developer accountability,3,36,47,0.083,0.029,0.218
+HSP,Health system,Liability allocation,L5,New legal framework,1,36,47,0.028,0.005,0.142
+HSP,Health system,Reimbursement,P5,Multiple reforms,19,41,47,0.463,0.321,0.613
+HSP,Health system,Reimbursement,P2,Value-based payment,8,41,47,0.195,0.102,0.34
+HSP,Health system,Reimbursement,P4,CMS pilot/demonstration,7,41,47,0.171,0.085,0.313
+HSP,Health system,Reimbursement,P1,AI-specific payment pathways,6,41,47,0.146,0.069,0.284
+HSP,Health system,Reimbursement,P3,Remove FFS barriers,1,41,47,0.024,0.004,0.126
+HSP,Health system,Interoperability,D2,Expand data types,18,34,47,0.529,0.367,0.685
+HSP,Health system,Interoperability,D1,Strengthen current standards,10,34,47,0.294,0.168,0.462
+HSP,Health system,Interoperability,D4,Prevent gatekeeping,5,34,47,0.147,0.064,0.301
+HSP,Health system,Interoperability,D5,Federal data infrastructure,1,34,47,0.029,0.005,0.149
+HSP,Health system,Evaluation,E3,Full lifecycle,37,44,47,0.841,0.706,0.921
+HSP,Health system,Evaluation,E4,Developer-led,3,44,47,0.068,0.023,0.182
+HSP,Health system,Evaluation,E2,Post-market monitoring primary,2,44,47,0.045,0.013,0.151
+HSP,Health system,Evaluation,E5,Federal evaluation infrastructure,2,44,47,0.045,0.013,0.151
+IND,Individual,Human oversight,H1,Universal mandatory oversight,33,62,88,0.532,0.41,0.651
+IND,Individual,Human oversight,H2,Risk-tiered oversight,24,62,88,0.387,0.276,0.512
+IND,Individual,Human oversight,H3,Recommended not mandated,3,62,88,0.048,0.017,0.133
+IND,Individual,Human oversight,H4,Autonomous OK,2,62,88,0.032,0.009,0.11
+IND,Individual,Regulatory approach,R1,New AI-specific regulation,35,64,88,0.547,0.426,0.663
+IND,Individual,Regulatory approach,R3,Clarify existing rules,15,64,88,0.234,0.147,0.351
+IND,Individual,Regulatory approach,R2,Risk-tiered adaptation,8,64,88,0.125,0.065,0.228
+IND,Individual,Regulatory approach,R4,Reduce burden,4,64,88,0.062,0.025,0.15
+IND,Individual,Regulatory approach,R5,Industry self-governance,2,64,88,0.031,0.009,0.107
+IND,Individual,Liability allocation,L2,Shared/distributed liability,9,18,88,0.5,0.29,0.71
+IND,Individual,Liability allocation,L5,New legal framework,3,18,88,0.167,0.058,0.392
+IND,Individual,Liability allocation,L4,Federal safe harbor,3,18,88,0.167,0.058,0.392
+IND,Individual,Liability allocation,L1,Increase developer accountability,3,18,88,0.167,0.058,0.392
+IND,Individual,Reimbursement,P5,Multiple reforms,11,24,88,0.458,0.279,0.649
+IND,Individual,Reimbursement,P4,CMS pilot/demonstration,5,24,88,0.208,0.092,0.405
+IND,Individual,Reimbursement,P2,Value-based payment,4,24,88,0.167,0.067,0.359
+IND,Individual,Reimbursement,P3,Remove FFS barriers,2,24,88,0.083,0.023,0.258
+IND,Individual,Reimbursement,P1,AI-specific payment pathways,2,24,88,0.083,0.023,0.258
+IND,Individual,Interoperability,D2,Expand data types,26,40,88,0.65,0.495,0.779
+IND,Individual,Interoperability,D1,Strengthen current standards,5,40,88,0.125,0.055,0.261
+IND,Individual,Interoperability,D3,Patient-controlled data,4,40,88,0.1,0.04,0.231
+IND,Individual,Interoperability,D5,Federal data infrastructure,3,40,88,0.075,0.026,0.199
+IND,Individual,Interoperability,D4,Prevent gatekeeping,2,40,88,0.05,0.014,0.165
+IND,Individual,Evaluation,E3,Full lifecycle,32,56,88,0.571,0.441,0.692
+IND,Individual,Evaluation,E5,Federal evaluation infrastructure,12,56,88,0.214,0.127,0.338
+IND,Individual,Evaluation,E1,Pre-market validation primary,6,56,88,0.107,0.05,0.215
+IND,Individual,Evaluation,E2,Post-market monitoring primary,5,56,88,0.089,0.039,0.193
+IND,Individual,Evaluation,E4,Developer-led,1,56,88,0.018,0.003,0.094
+LAB,Labor,Human oversight,H2,Risk-tiered oversight,3,4,5,0.75,0.301,0.954
+LAB,Labor,Human oversight,H1,Universal mandatory oversight,1,4,5,0.25,0.046,0.699
+LAB,Labor,Regulatory approach,R3,Clarify existing rules,4,5,5,0.8,0.376,0.964
+LAB,Labor,Regulatory approach,R2,Risk-tiered adaptation,1,5,5,0.2,0.036,0.624
+LAB,Labor,Liability allocation,L2,Shared/distributed liability,1,1,5,1.0,0.207,1.0
+LAB,Labor,Reimbursement,P1,AI-specific payment pathways,3,4,5,0.75,0.301,0.954
+LAB,Labor,Reimbursement,P5,Multiple reforms,1,4,5,0.25,0.046,0.699
+LAB,Labor,Interoperability,D2,Expand data types,3,3,5,1.0,0.439,1.0
+LAB,Labor,Evaluation,E3,Full lifecycle,4,4,5,1.0,0.51,1.0
+MPS,Medical society,Human oversight,H1,Universal mandatory oversight,26,51,54,0.51,0.377,0.641
+MPS,Medical society,Human oversight,H2,Risk-tiered oversight,25,51,54,0.49,0.359,0.623
+MPS,Medical society,Regulatory approach,R3,Clarify existing rules,15,46,54,0.326,0.209,0.47
+MPS,Medical society,Regulatory approach,R2,Risk-tiered adaptation,14,46,54,0.304,0.191,0.448
+MPS,Medical society,Regulatory approach,R1,New AI-specific regulation,14,46,54,0.304,0.191,0.448
+MPS,Medical society,Regulatory approach,R4,Reduce burden,3,46,54,0.065,0.022,0.175
+MPS,Medical society,Liability allocation,L2,Shared/distributed liability,20,32,54,0.625,0.453,0.771
+MPS,Medical society,Liability allocation,L1,Increase developer accountability,6,32,54,0.188,0.089,0.353
+MPS,Medical society,Liability allocation,L4,Federal safe harbor,4,32,54,0.125,0.05,0.281
+MPS,Medical society,Liability allocation,L5,New legal framework,2,32,54,0.062,0.017,0.201
+MPS,Medical society,Reimbursement,P5,Multiple reforms,13,29,54,0.448,0.284,0.625
+MPS,Medical society,Reimbursement,P1,AI-specific payment pathways,9,29,54,0.31,0.173,0.492
+MPS,Medical society,Reimbursement,P2,Value-based payment,4,29,54,0.138,0.055,0.306
+MPS,Medical society,Reimbursement,P3,Remove FFS barriers,2,29,54,0.069,0.019,0.22
+MPS,Medical society,Reimbursement,P4,CMS pilot/demonstration,1,29,54,0.034,0.006,0.172
+MPS,Medical society,Interoperability,D1,Strengthen current standards,17,35,54,0.486,0.33,0.644
+MPS,Medical society,Interoperability,D2,Expand data types,12,35,54,0.343,0.208,0.508
+MPS,Medical society,Interoperability,D4,Prevent gatekeeping,3,35,54,0.086,0.03,0.224
+MPS,Medical society,Interoperability,D5,Federal data infrastructure,2,35,54,0.057,0.016,0.186
+MPS,Medical society,Interoperability,D3,Patient-controlled data,1,35,54,0.029,0.005,0.145
+MPS,Medical society,Evaluation,E3,Full lifecycle,37,44,54,0.841,0.706,0.921
+MPS,Medical society,Evaluation,E1,Pre-market validation primary,6,44,54,0.136,0.064,0.267
+MPS,Medical society,Evaluation,E4,Developer-led,1,44,54,0.023,0.004,0.118
+PAY,Payer,Human oversight,H2,Risk-tiered oversight,7,10,10,0.7,0.397,0.892
+PAY,Payer,Human oversight,H1,Universal mandatory oversight,3,10,10,0.3,0.108,0.603
+PAY,Payer,Regulatory approach,R2,Risk-tiered adaptation,5,10,10,0.5,0.237,0.763
+PAY,Payer,Regulatory approach,R3,Clarify existing rules,3,10,10,0.3,0.108,0.603
+PAY,Payer,Regulatory approach,R1,New AI-specific regulation,2,10,10,0.2,0.057,0.51
+PAY,Payer,Liability allocation,L4,Federal safe harbor,2,4,10,0.5,0.15,0.85
+PAY,Payer,Liability allocation,L2,Shared/distributed liability,1,4,10,0.25,0.046,0.699
+PAY,Payer,Liability allocation,L1,Increase developer accountability,1,4,10,0.25,0.046,0.699
+PAY,Payer,Reimbursement,P5,Multiple reforms,3,7,10,0.429,0.158,0.75
+PAY,Payer,Reimbursement,P2,Value-based payment,3,7,10,0.429,0.158,0.75
+PAY,Payer,Reimbursement,P3,Remove FFS barriers,1,7,10,0.143,0.026,0.513
+PAY,Payer,Interoperability,D1,Strengthen current standards,4,7,10,0.571,0.25,0.842
+PAY,Payer,Interoperability,D2,Expand data types,2,7,10,0.286,0.082,0.641
+PAY,Payer,Interoperability,D4,Prevent gatekeeping,1,7,10,0.143,0.026,0.513
+PAY,Payer,Evaluation,E3,Full lifecycle,8,9,10,0.889,0.565,0.98
+PAY,Payer,Evaluation,E2,Post-market monitoring primary,1,9,10,0.111,0.02,0.435
+POL,Policy/academic,Human oversight,H2,Risk-tiered oversight,7,10,11,0.7,0.397,0.892
+POL,Policy/academic,Human oversight,H1,Universal mandatory oversight,2,10,11,0.2,0.057,0.51
+POL,Policy/academic,Human oversight,H4,Autonomous OK,1,10,11,0.1,0.018,0.404
+POL,Policy/academic,Regulatory approach,R3,Clarify existing rules,5,11,11,0.455,0.213,0.72
+POL,Policy/academic,Regulatory approach,R1,New AI-specific regulation,3,11,11,0.273,0.097,0.566
+POL,Policy/academic,Regulatory approach,R2,Risk-tiered adaptation,3,11,11,0.273,0.097,0.566
+POL,Policy/academic,Liability allocation,L2,Shared/distributed liability,3,5,11,0.6,0.231,0.882
+POL,Policy/academic,Liability allocation,L5,New legal framework,1,5,11,0.2,0.036,0.624
+POL,Policy/academic,Liability allocation,L4,Federal safe harbor,1,5,11,0.2,0.036,0.624
+POL,Policy/academic,Reimbursement,P1,AI-specific payment pathways,2,6,11,0.333,0.097,0.7
+POL,Policy/academic,Reimbursement,P5,Multiple reforms,2,6,11,0.333,0.097,0.7
+POL,Policy/academic,Reimbursement,P4,CMS pilot/demonstration,1,6,11,0.167,0.03,0.564
+POL,Policy/academic,Reimbursement,P2,Value-based payment,1,6,11,0.167,0.03,0.564
+POL,Policy/academic,Interoperability,D1,Strengthen current standards,3,5,11,0.6,0.231,0.882
+POL,Policy/academic,Interoperability,D2,Expand data types,2,5,11,0.4,0.118,0.769
+POL,Policy/academic,Evaluation,E3,Full lifecycle,10,10,11,1.0,0.722,1.0
+TEC,Tech/pharma,Human oversight,H2,Risk-tiered oversight,4,5,8,0.8,0.376,0.964
+TEC,Tech/pharma,Human oversight,H1,Universal mandatory oversight,1,5,8,0.2,0.036,0.624
+TEC,Tech/pharma,Regulatory approach,R2,Risk-tiered adaptation,4,7,8,0.571,0.25,0.842
+TEC,Tech/pharma,Regulatory approach,R3,Clarify existing rules,1,7,8,0.143,0.026,0.513
+TEC,Tech/pharma,Regulatory approach,R1,New AI-specific regulation,1,7,8,0.143,0.026,0.513
+TEC,Tech/pharma,Regulatory approach,R5,Industry self-governance,1,7,8,0.143,0.026,0.513
+TEC,Tech/pharma,Liability allocation,L2,Shared/distributed liability,3,4,8,0.75,0.301,0.954
+TEC,Tech/pharma,Liability allocation,L5,New legal framework,1,4,8,0.25,0.046,0.699
+TEC,Tech/pharma,Reimbursement,P4,CMS pilot/demonstration,2,5,8,0.4,0.118,0.769
+TEC,Tech/pharma,Reimbursement,P3,Remove FFS barriers,1,5,8,0.2,0.036,0.624
+TEC,Tech/pharma,Reimbursement,P2,Value-based payment,1,5,8,0.2,0.036,0.624
+TEC,Tech/pharma,Reimbursement,P5,Multiple reforms,1,5,8,0.2,0.036,0.624
+TEC,Tech/pharma,Interoperability,D1,Strengthen current standards,4,7,8,0.571,0.25,0.842
+TEC,Tech/pharma,Interoperability,D2,Expand data types,3,7,8,0.429,0.158,0.75
+TEC,Tech/pharma,Evaluation,E3,Full lifecycle,6,8,8,0.75,0.409,0.929
+TEC,Tech/pharma,Evaluation,E5,Federal evaluation infrastructure,1,8,8,0.125,0.022,0.471
+TEC,Tech/pharma,Evaluation,E2,Post-market monitoring primary,1,8,8,0.125,0.022,0.471

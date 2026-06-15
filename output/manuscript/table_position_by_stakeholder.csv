@@ -1,0 +1,7 @@
+axis,variable,n_total,chi2,p_value,cramers_v,frac_cells_expected_lt_5,test,q_value_bh,significant_bh_05
+Human oversight,pos_oversight,446,122.857,0.0,0.262,0.62,Pearson χ²,0.0,True
+Regulatory approach,pos_regulation,446,130.052,0.0,0.241,0.6,Pearson χ²,0.0,True
+Liability allocation,pos_liability,446,104.881,0.0,0.217,0.683,Pearson χ²,0.0,True
+Reimbursement,pos_reimbursement,446,139.862,0.0,0.25,0.583,Pearson χ²,0.0,True
+Interoperability,pos_interoperability,446,75.079,0.0033,0.183,0.7,Pearson χ²,0.0033,True
+Evaluation & monitoring,pos_evaluation,446,90.409,0.0001,0.201,0.717,Pearson χ²,0.0001,True
