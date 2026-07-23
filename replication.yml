@@ -1,0 +1,74 @@
+name: Cross-model replication
+
+# Run manually from the Actions tab. Never runs automatically.
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: "How much to code"
+        required: true
+        default: subsample
+        type: choice
+        options:
+          - subsample   # 30 comments, ~$1, ~2 min
+          - full        # 446 comments, ~$14, ~30 min
+      model:
+        description: "Second model"
+        required: true
+        default: gpt-4o
+        type: string
+      commit_results:
+        description: "Commit results back to the repo"
+        required: true
+        default: true
+        type: boolean
+
+jobs:
+  replicate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install openai google-generativeai scikit-learn scipy pandas pydantic
+
+      - name: Run replication
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ "${{ inputs.scope }}" = "subsample" ]; then
+            python run_replication.py --model "${{ inputs.model }}" --subsample --yes
+          else
+            python run_replication.py --model "${{ inputs.model }}" --yes
+          fi
+
+      - name: Show summary in the log
+        if: always()
+        run: cat output/cross_model/REPLICATION_SUMMARY.txt || echo "No summary produced."
+
+      - name: Upload results as downloadable artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cross-model-results
+          path: output/cross_model/
+          retention-days: 90
+
+      - name: Commit results back to the repo
+        if: ${{ inputs.commit_results }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/cross_model/
+          git diff --staged --quiet || git commit -m "Cross-model replication (${{ inputs.scope }}, ${{ inputs.model }})"
+          git push
